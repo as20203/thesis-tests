@@ -17,7 +17,7 @@ def encode_bit_sequence(text, bit_sequence):
             encoded_text += ' '
             # Add an extra space before replacing it with a non-printable ASCII character
             if (bit_sequence[bit_index] == '0'):
-                char = chr(23)
+                char = chr(22)
             else:
                 char = chr(17)
         
@@ -43,7 +43,7 @@ def decode_bit_sequence(encoded_text):
         # Check if the character is non-printable
         if ord(char) < 32:
             # Extract the LSB of the ASCII value
-            if ord(char) == 23:
+            if ord(char) == 22:
                 decoded_sequence += '0'
             
             if ord(char) == 17:
@@ -52,7 +52,7 @@ def decode_bit_sequence(encoded_text):
     return decoded_sequence
 
 def main():
-    paragraph = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    paragraph = "dfkdjfd dfjd kdfjkdjfdkjd k jdfkd kjdkfjdk d djdkjdfkdj fkjd kdkdfjkjd jdk d kj dk jdkj"
     bit_sequence_length = 10
     random_bit_sequence = generate_random_bit_sequence(bit_sequence_length)
     print("Random Bit Sequence:", random_bit_sequence)
@@ -60,7 +60,9 @@ def main():
     # Encode the bit sequence within the paragraph
     encoded_paragraph = encode_bit_sequence(paragraph, random_bit_sequence)
     print("Encoded Paragraph:", encoded_paragraph)
-    print("Encoded Paragraph:", encoded_paragraph.split(' '))
+
+    decoded_paragraph_bits = decode_bit_sequence(encoded_paragraph)
+    print('Decoded paragraph bits: ', decoded_paragraph_bits)
 
 if __name__ == "__main__":
     main()
