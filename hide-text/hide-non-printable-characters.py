@@ -52,7 +52,7 @@ def decode_bit_sequence(encoded_text):
     return decoded_sequence
 
 def main():
-    paragraph = "dfkdjfd dfjd kdfjkdjfdkjd k jdfkd kjdkfjdk d djdkjdfkdj fkjd kdkdfjkjd jdk d kj dk jdkj"
+    paragraph = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     bit_sequence_length = 10
     random_bit_sequence = generate_random_bit_sequence(bit_sequence_length)
     print("Random Bit Sequence:", random_bit_sequence)
@@ -60,9 +60,12 @@ def main():
     # Encode the bit sequence within the paragraph
     encoded_paragraph = encode_bit_sequence(paragraph, random_bit_sequence)
     print("Encoded Paragraph:", encoded_paragraph)
+    print("Encoded Paragraph:", encoded_paragraph.split())
+
 
     decoded_paragraph_bits = decode_bit_sequence(encoded_paragraph)
     print('Decoded paragraph bits: ', decoded_paragraph_bits)
+
 
 if __name__ == "__main__":
     main()

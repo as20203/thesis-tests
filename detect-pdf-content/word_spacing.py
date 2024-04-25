@@ -48,13 +48,7 @@ def transform_input(input_string):
             text_font+= input_string[index]
             index +=1
     return transformed_input
-    
 
-# Test the function with your input
-input_string = "/F39 20.6625 Tf 126.285 1033.335 Td [(1)-1125(Assignmen)31(t)-375(2.5)]TJ/F39 17.2154 Tf 0 -36.125 Td [(1.1)-1125(Exercises)-375(1)]TJ/F37 14.3462 Tf 0 -26.202 Td [(Consider )-326(the)-327(pro)1(gram)]TJ/F42 14.3462 Tf 138.988 0 Td [(C)]TJ/F37 14.3462 Tf 15.763 0 Td [(and)-326(pre-)-327(and)-326(p)-27(ostconditions)]TJ/F42 14.3462 Tf 176.916 0 Td [(F)]TJ/F37 14.3462 Tf 15.727 0 Td [(and)]TJ/F42 14.3462 Tf 27.314 0 Td [(H)]TJ/F37 14.3462 Tf 17.429 0 Td [(as)-326(follo)27(ws:)]TJ"
-output = transform_input(input_string)
-print(output)
-write_array_to_file(output,'output.txt')
 
 
 

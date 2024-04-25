@@ -62,7 +62,7 @@ if __name__ == "__main__":
     filename_base = in_file.replace(os.path.splitext(in_file)[1], "")
 
     # Provide replacements list that you need here
-    replacements = { 'Consider': 'Consider '}
+    replacements = { '(Consider)-326': '(Consider)-480'}
 
     reader = PdfReader(in_file)
     writer = PdfWriter()
