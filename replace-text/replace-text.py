@@ -5,12 +5,6 @@ from PyPDF2.generic import DecodedStreamObject, EncodedStreamObject, NameObject
 
 import re
 
-def detect_spaces(string):
-    # Using regular expression to split the string into words and spaces
-    tokens = re.findall(r'\S+|\s', string)
-    # Removing punctuation marks from the result
-    tokens = [token.strip('.') for token in tokens]
-    return tokens
 
 def replace_text(content, replacements = dict()):
     lines = content.splitlines()
@@ -27,6 +21,7 @@ def replace_text(content, replacements = dict()):
 
         elif in_text:
             print(line + "\n")
+            ## To-Do modify spaces and other things over here.
             cmd = line[-2:]
             if cmd.lower() == 'tj':
                 replaced_line = line
