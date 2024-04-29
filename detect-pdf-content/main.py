@@ -9,7 +9,6 @@ import detect_pdf_lines, word_spacing, modifed_pdf_lines
 def replace_text(content, transformed_input_output):
     lines = content.splitlines()
     page_pdf_content = []
-    print('Lines: ', lines)
     result = ""
     in_text = False
     for line in lines:
@@ -25,6 +24,7 @@ def replace_text(content, transformed_input_output):
             cmd = line[-2:]
             if cmd.lower() == 'tj':
                 transformed_input = word_spacing.transform_input(line)
+                transformed_input.append("TJ")
                 # print("Line: - ", line + "\n")
                 # print('Transformed line:- ', transformed_input)
                 # print('Lines in transformed input:- ', detect_pdf_lines.detectPdfLines(transformed_input))
@@ -34,16 +34,17 @@ def replace_text(content, transformed_input_output):
                 page_pdf_content.append(line)
         else:
             page_pdf_content.append(line)
-        page_pdf_content.append("/n")
+        page_pdf_content.append("\\n")
         result += line + "\n"
     word_spacing.write_array_to_file(page_pdf_content,'page_pdf_content.txt')
     output = detect_pdf_lines.detectPdfLines(page_pdf_content)
     updated_output = modifed_pdf_lines.modified_pdf_lines(output)
     word_spacing.write_array_to_file(updated_output, 'modified_pdf_content.txt')
     word_spacing.write_array_to_file(output,'page_pdf_lines.txt')
-
-    print("Page pdf lines:- ", page_pdf_content)
-    return result
+    with open('result.txt', 'w') as file:
+            file.write(result)
+    updated_result = '\n'.join(updated_output)
+    return updated_result
 
 
 def process_data(object, replacements):
