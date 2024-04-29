@@ -13,10 +13,11 @@ def detectPdfLines(pdf_content):
                 if len(lines_coordinates) > 0 and lines_coordinates[-1]:
                     lines_coordinates[-1]['content'] = pdf_content[lines_coordinates[-1]['index']+1:index]
                 lines_coordinates.append({"line-no": 'line-'+str(count+1) ,"x": text_position[x_coordinate], "y": text_position[y_coordinate], "index":index, 'line-adjustment': item})
+                if len(lines_coordinates) == 1:
+                    lines_coordinates[0]['line-adjustment'] = pdf_content[0:index + 1]
                 count+= 1
-    print(lines_coordinates[-1]['index']+1, len(pdf_content))
-    print(pdf_content)
-    lines_coordinates[-1]['content'] = pdf_content[lines_coordinates[-1]['index']+1:len(pdf_content)]
+    if (len(lines_coordinates) > 0):         
+        lines_coordinates[-1]['content'] = pdf_content[lines_coordinates[-1]['index']+1:len(pdf_content)]
     return lines_coordinates
 
 
