@@ -20,6 +20,24 @@ def modify_last_word(content):
         else:
             index -= 1
     return updated_content
+
+def modify_line_spaces(content, space_value = 0):
+    updated_content = content.copy()
+    print('this is a line', content)
+    space_count = 0;
+    for index,item in enumerate(updated_content):
+        if item.startswith("s:"):
+            space = int(item[2:])
+            if space < 0:
+                space_count+=1
+                if space_count % 2 == 0:
+                    space += space_value
+                else:
+                    space -= space_value
+                updated_content[index] = 's:{}'.format(space)
+    return updated_content
+
+
            
 
 def modified_pdf_lines(pdf_lines):
@@ -43,7 +61,9 @@ def modified_pdf_lines(pdf_lines):
             ## Do our changes here
             ## modify spaces or change words etc.
             ## ToDo write code that will now modify the words and spaces.
-            modified_content = modify_last_word(content_text)
+            # modified_content = modify_last_word(content_text)
+            modified_content = modify_line_spaces(content_text, 50)
+
 
             ## join content as updated result.
             
@@ -61,6 +81,8 @@ def modified_pdf_lines(pdf_lines):
                 
                 # updated_pdf_lines.append(item)
     return updated_pdf_lines
+
+
     
         
 
