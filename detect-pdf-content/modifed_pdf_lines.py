@@ -23,12 +23,15 @@ def modify_last_word(content):
 
 def modify_line_spaces(content, space_value = 0):
     updated_content = content.copy()
-    print('this is a line', content)
-    space_count = 0;
+    space_count = 0
     for index,item in enumerate(updated_content):
         if item.startswith("s:"):
             space = int(item[2:])
-            if space < 0:
+            ## Space between words is usually negative.
+            ## used -50
+            ## Space between characters is usually positive
+            ## if negative it represents kerning and the value is usually quite low.
+            if space < 0 and space < -50:
                 space_count+=1
                 if space_count % 2 == 0:
                     space += space_value
@@ -62,7 +65,7 @@ def modified_pdf_lines(pdf_lines):
             ## modify spaces or change words etc.
             ## ToDo write code that will now modify the words and spaces.
             # modified_content = modify_last_word(content_text)
-            modified_content = modify_line_spaces(content_text, 50)
+            modified_content = modify_line_spaces(content_text, 100)
 
 
             ## join content as updated result.
