@@ -21,10 +21,18 @@ def modify_last_word(content):
             index -= 1
     return updated_content
 
-def modify_line_spaces(content, space_value = 0):
-    updated_content = content.copy()
+
+
+
+def modify_line_spaces(line_text, space_value = 0):
+    updated_content = line_text.copy()
     space_count = 0
-    for index,item in enumerate(updated_content):
+    index = 0
+    space_identifier = 'I'
+    space_separator = [']','TJ','\n','1 0 0 rg 1 0 0 RG', '\n', '[({})]TJ'.format(space_identifier), '\n', '0 g 0 G', '\n', '[']
+    while index < len(updated_content):
+    # for index,item in enumerate(updated_content):
+        item = updated_content[index]
         if item.startswith("s:"):
             space = int(item[2:])
             ## Space between words is usually negative.
@@ -38,6 +46,10 @@ def modify_line_spaces(content, space_value = 0):
                 else:
                     space -= space_value
                 updated_content[index] = 's:{}'.format(space)
+                updated_content[index:index] = space_separator
+                index += len(space_separator)
+        index += 1
+
     return updated_content
 
 
@@ -48,7 +60,7 @@ def modified_pdf_lines(pdf_lines):
     pdf_line = ''
     for item in pdf_lines:
         content_adjustment = item['line-adjustment']
-        content_text = item['content']
+        line_text = item['content']
         ## Fix content adjustment
         if isinstance(content_adjustment, list):
             for index, item in enumerate(content_adjustment):
@@ -60,12 +72,12 @@ def modified_pdf_lines(pdf_lines):
             pdf_line += content_adjustment
             # updated_pdf_lines.append(content_adjustment)
 
-        if content_text and isinstance(content_text,list):
+        if line_text and isinstance(line_text,list):
             ## Do our changes here
             ## modify spaces or change words etc.
             ## ToDo write code that will now modify the words and spaces.
             # modified_content = modify_last_word(content_text)
-            modified_content = modify_line_spaces(content_text, 100)
+            modified_content = modify_line_spaces(line_text, 0)
 
 
             ## join content as updated result.

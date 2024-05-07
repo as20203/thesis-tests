@@ -1,3 +1,123 @@
+0 g 0 G
+0 g 0 G
 BT
-/F28 9.9626 Tf 166.174 707.125 Td [(Lorem)-333(ipsum)-334(dolor)-333(sit)-333(amet,)-334(consectetuer)-333(adipiscing)-333(elit.)-445(Ut)-333(purus)-333(elit,)]TJ -19.4 -11.955 Td [(v)28(estibulum)-334(ut)1(,)-334(placerat)-333(ac,)-334(ad)1(ipiscing)-334(vitae,)-333(felis.)-445(Cu)1(rabitur)-334(dictum)-333(gra)28(vida)]TJ -12.121 -11.955 Td [(mauris.)-444(Nam)-334(arcu)-333(lib)-28(ero,)-333(non)28(umm)27(y)-333(eget,)-333(consectetuer)-334(id,)-333(vulputate)-333(a,)-334(magna.)]TJ -0.885 -11.955 Td [(Donec)-317(v)28(ehicula)-317(augue)-316(eu)-317(neque.)-439(P)28(ellen)28(tesque)-317(habitan)28(t)-317(morbi)-316(tristique)-317(senectus)]TJ 18.514 -11.956 Td [(et)-333(netus)-334(et)-333(malesuada)-333(fames)-334(ac)-333(turpis)-333(e)-1(gestas.)-444(Mauris)-333(ut)-334(leo.)-444(Cras)-333(viv)27(erra)]TJ 22.554 -11.955 Td [(metus)-333(rhoncus)-334(sem.)-444(Nulla)-334(et)-333(lectus)-333(v)28(e)-1(stib)1(ulum)-334(urna)-333(fringilla)-333(ultrices.)]TJ -36.198 -11.955 Td [(Phasellus)-333(eu)-334(tellus)-333(sit)-333(amet)-334(tortor)-333(gra)28(vida)-334(p)1(lace)-1(rat.)-444(In)28(teger)-334(sapi)1(e)-1(n)-333(est,)-333(iaculis)]TJ 41.678 -11.955 Td [(in,)-333(pretium)-333(quis,)-334(viv)28(erra)-333(ac,)-334(n)28(unc.)-444(Praesen)28(t)-334(eget)-333(sem)-334(v)28(el)-333(leo)-334(ultr)1(ice)-1(s)]TJ -30.691 -11.955 Td [(bib)-28(endum.)-444(Aenean)-333(faucibus.)-445(Morbi)-333(dolor)-333(n)28(ulla,)-334(malesuada)-333(eu,)-333(pulvinar)-333(at,)]TJ -7.887 -11.955 Td [(mollis)-333(ac,)-334(n)28(ulla.)-444(Curabitur)-333(auctor)-334(semp)-28(er)-333(n)28(ulla.)-444(Donec)-334(v)56(arius)-334(orci)-333(eget)-333(risus.)]TJ -7.97 -11.956 Td [(Duis)-333(ni)1(bh)-333(mi,)-333(congue)-332(eu,)-333(accumsan)-333(eleifend)1(,)-333(sagittis)-333(quis,)-332(diam.)-445(Du)1(is)-333(eget)-333(orci)]TJ 207.859 -11.955 Td [(sit)-333(amet)-334(orci)-333(dignissim)-333(rutrum.)]TJ -207.859 -21.918 Td [(Nam)-315(dui)-315(ligula,)-318(fringilla)-315(a,)-319(euismo)-28(d)-315(so)-27(dales,)-319(sollicitudin)-315(v)28(el,)-319(wisi.)-438(Morbi)-315(auctor)]TJ 23.163 -11.955 Td [(lorem)-333(non)-334(justo.)-444(Nam)-333(lacus)-334(lib)-27(ero,)-334(pretium)-333(at,)-333(lob)-28(ortis)-333(vitae,)-334(ultricies)-333(et,)]TJ 5.784 -11.955 Td [(tellus.)-444(Donec)-334(aliquet,)-333(tortor)-333(sed)-334(accumsan)-333(bib)-28(endum,)-333(erat)-333(ligula)-334(aliquet)]TJ -16.826 -11.955 Td [(magna,)-333(vitae)-334(ornare)-333(o)-28(dio)-333(metus)-333(a)-334(mi.)-444(Morbi)-333(ac)-334(orci)-333(et)-333(nisl)-334(hendrerit)-333(mollis.)]TJ 22.914 -11.955 Td [(Susp)-28(endisse)-333(ut)-333(mas)-1(sa.)-444(Cras)-333(nec)-334(an)28(te.)-444(P)27(ellen)28(tesque)-333(a)-334(n)28(ulla.)-444(Cum)-333(so)-28(ciis)]TJ -21.143 -11.955 Td [(nato)-28(que)-333(p)-28(enatibus)-333(et)-333(magnis)-334(dis)-333(parturien)28(t)-334(mon)28(tes,)-333(nascetur)-333(ridiculus)-334(m)28(us.)]TJ 0.083 -11.956 Td [(Aliquam)-333(tincidun)28(t)-334(urna.)-444(Nulla)-333(ullamcorp)-28(er)-333(v)27(estibu)1(lum)-334(turpis.)-444(P)28(ellen)27(tesque)]TJ 237.582 -11.955 Td [(cursus)-333(luctus)-334(mauris.)]TJ -234.178 -21.918 Td [(Nulla)-333(malesuada)-334(p)-27(orttitor)-334(diam.)-444(Donec)-333(felis)-334(erat,)-333(congue)-333(non,)-334(v)28(olutpat)-333(at,)]TJ -12.841 -11.955 Td [(tincidun)28(t)-333(tristique,)-334(lib)-27(ero.)-445(Viv)56(am)28(us)-334(viv)28(erra)-333(fermen)27(tu)1(m)-334(felis.)-444(Donec)-334(non)28(umm)28(y)]TJ -4.538 -11.955 Td [(p)-28(ellen)28(tesque)-327(an)28(te.)-443(Phasellus)-327(adipiscing)-327(semp)-28(er)-327(elit.)-442(Proin)-328(f)1(e)-1(r)1(m)-1(en)28(tum)-327(massa)-327(ac)]TJ 1.107 -11.955 Td [(quam.)-444(Sed)-334(diam)-333(turpis,)-333(molestie)-334(vitae,)-333(placerat)-333(a,)-334(molestie)-333(nec,)-333(leo.)-445(Maecenas)]TJ -0.028 -11.955 Td [(lacinia.)-444(Nam)-334(ipsum)-333(ligula,)-333(eleifend)-334(at,)-333(accumsan)-333(nec,)-334(suscipit)-333(a,)-333(ipsum.)-445(Morbi)]TJ 0.221 -11.956 Td [(blandit)-333(ligula)-333(feugiat)-334(magna.)-444(Nunc)-333(ele)-1(i)1(fend)-334(consequat)-333(lorem.)-445(Sed)-333(lacinia)-333(n)28(ulla)]TJ 33.541 -11.955 Td [(vitae)-333(enim.)-445(P)28(ellen)28(tesque)-334(tincidun)28(t)-333(purus)-333(v)28(el)-334(magna.)-444(In)28(tege)-1(r)-333(non)-333(enim.)]TJ -18.514 -11.955 Td [(Praesen)28(t)-334(euismo)-27(d)-334(n)28(unc)-333(eu)-334(pu)1(rus.)-445(Donec)-333(bib)-28(endum)-333(quam)-334(in)-333(tellus.)-444(Nullam)]TJ 29.196 -11.955 Td [(cursus)-333(pulvinar)-334(lectus.)-444(Donec)-333(et)-334(mi.)-444(Nam)-334(vulp)1(utate)-334(metus)-333(eu)-334(enim.)]TJ 126.886 -11.955 Td [(V)83(estibulum)-333(p)-28(ellen)28(tesque)-333(felis)-334(eu)-333(massa.)]TJ -159.818 -21.918 Td [(Quisque)-333(ullamcorp)-28(er)-333(placerat)-334(ipsum.)-444(Cras)-333(nibh.)-445(Morbi)-333(v)28(el)-334(ju)1(s)-1(to)-333(vitae)-333(lacus)]TJ -12.01 -11.955 Td [(tincidun)28(t)-333(ultrices.)-445(Lorem)-333(ipsum)-334(d)1(olor)-334(sit)-333(amet,)-334(consectetuer)-333(adipiscing)-333(elit.)-445(In)]TJ 0.802 -11.955 Td [(hac)-333(habitasse)-334(platea)-333(dictumst.)-444(I)-1(n)28(teger)-333(tempus)-333(con)27(v)56(allis)-333(augue.)-445(Etiam)-333(facilisis.)]TJ 12.537 -11.956 Td [(Nunc)-333(elemen)27(tum)-333(fermen)28(tum)-333(w)-1(i)1(s)-1(i.)-444(Aenean)-333(placerat.)-445(Ut)-333(imp)-28(erdiet,)-333(enim)-333(s)-1(ed)]TJ -11.983 -11.955 Td [(gra)28(vida)-333(sollicitudin,)-334(felis)-333(o)-28(dio)-333(placerat)-333(quam,)-334(ac)-333(pulvinar)-333(elit)-333(purus)-334(eget)-333(enim.)]TJ 0.553 -11.955 Td [(Nunc)-333(vitae)-334(tortor.)-444(Proin)-333(tempus)-334(nib)1(h)-334(sit)-333(amet)-334(ni)1(s)-1(l.)-444(Viv)56(am)27(us)-333(quis)-333(tortor)-334(vi)1(tae)]TJ 252.775 -11.955 Td [(risus)-333(p)-28(orta)-333(v)27(ehicula.)]TJ -85.9 -107.597 Td [(1)]TJ
+/F39 17.2154 Tf 227.136 751.389 Td [(JA)125(W)125(AD)-375(ZAHEER)]TJ/F37 10.9091 Tf -180.924 -15.462 Td [(\050+358\051)-333(414760190)]TJ/F45 10.9091 Tf 89.697 0 Td [(\005)]TJ
+0 0 1 rg 0 0 1 RG
+/F37 10.9091 Tf 9.091 0 Td [(ja)28(w)28(adzaheer58@gmail.com)]TJ
+0 g 0 G
+/F45 10.9091 Tf 129.424 0 Td [(\005)]TJ
+0 0 1 rg 0 0 1 RG
+/F37 10.9091 Tf 9.091 0 Td [(link)28(edin.com/in/jzaheer123/)]TJ
+0 g 0 G
+/F45 10.9091 Tf 139.122 0 Td [(\005)]TJ
+0 0 1 rg 0 0 1 RG
+/F37 10.9091 Tf 9.09 0 Td [(h)28(ttps://gith)28(ub.com/as20203)]TJ
+0 g 0 G
+/F48 10.9091 Tf -402.927 -19.362 Td [(EXPERIENCE)]TJ
+ET
+q
+1 0 0 1 28.8 710.388 cm
+[]0 d 0 J 0.398 w 0 0 m 554.401 0 l S
+Q
+0 g 0 G
+0 g 0 G
+BT
+/F48 10.9091 Tf 28.8 695.839 Td [(Researc)32(h)-383(Assistan)31(t)]TJ/F37 10.9091 Tf 468.855 0 Td [(F)83(eb)-333(2022-)-333(Presen)27(t)]TJ/F49 10.9091 Tf -468.855 -9.485 Td [(A)51(alto)-358(University)]TJ 495.883 0 Td [(Helsinki,)-358(FI)]TJ
+0 g 0 G
+/F50 10.9091 Tf -482.762 -17.468 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.879 0 Td [(W)83(orkin)1(g)-390(on)-389(m)28(y)]TJ/F48 10.9091 Tf 79.288 0 Td [(Master)-448(Thesis:"T)96(racing)-448(online)-448(sharing)-447(of)-448(do)-32(cumen)32(ts)-448(using)-448(w)32(atermarking")]TJ/F37 10.9091 Tf 411.713 0 Td [(.W)83(e)-389(will)]TJ -491.001 -10.693 Td [(b)-28(e)-388(Dev)28(eloping)-389(a)-388(robust)-388(PDF)-388(w)27(atermarking)-388(to)-28(ol)-388(for)-388(exercise)-389(do)-28(cumen)28(ts,)-402(seamlessly)-388(in)27(tegrated)-388(in)28(to)-388(the)-389(course)]TJ 0 -10.693 Td [(platform)-333(for)-333(sc)-1(alab)1(ilit)27(y)-333(to)-333(thousands)-333(of)-334(studen)28(ts.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.879 -12.726 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.879 0 Td [(T)83(argeted)-322(for)-322(Mathematics)-322(and)-322(Computer)-322(Science)-322(departmen)28(ts,)-325(ensuring)-322(a)28(v)56(ailabilit)28(y)-322(to)-322(professors)-323(and)-322(deterrin)1(g)]TJ 0 -10.693 Td [(online)-333(solution)-333(sharing.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.879 -13.332 Td [(\210)]TJ
+0 g 0 G
+/F48 10.9091 Tf 10.879 0 Td [(Skills:)]TJ/F37 10.9091 Tf 37.327 0 Td [(Python)-333(\050Flask\051,)-333(Information)-334(Securit)28(y)84(,)-334(Cyb)-27(e)-1(r)1(s)-1(ecurit)28(y)84(,)-334(Cloud)-333(Computing)]TJ/F48 10.9091 Tf -61.327 -18.074 Td [(Cloud)-383(Dev)32(elop)-32(er)-384(In)32(tern)]TJ/F37 10.9091 Tf 454.37 0 Td [(Apr)-333(2023)-334(-)-333(Aug)-333(2023)]TJ/F49 10.9091 Tf -454.37 -10.693 Td [(Ericsson)]TJ 495.883 0 Td [(Helsinki,)-358(FI)]TJ
+0 g 0 G
+/F50 10.9091 Tf -482.762 -17.468 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.879 0 Td [(Conducted)-319(risk)-319(analysis)-319(to)-319(iden)28(tify)-319(threats)-319(and)-319(en)28(try)-319(p)-28(oin)28(ts)-319(in)-319(metal3.io)-319(bare)-319(metal)-319(host)-319(rep)-28(ositories.)-440(Detected)]TJ 0 -10.693 Td [(soft)28(w)28(are)-334(vulnerabilities)-333(through)-333(fuzzing)-333(implemen)27(tation.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.879 -12.726 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.879 0 Td [(Strengthened)-333(securit)28(y)-334(in)-333(metal3)-333(rep)-28(ositories)-334(b)28(y)-333(applying)-333(securit)28(y)-334(standards)-333(to)-333(Kub)-28(ernetes)-333(p)-28(o)-28(ds)-333(during)]TJ 0 -10.693 Td [(deplo)28(ymen)28(t.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.879 -12.725 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.879 0 Td [(Con\014gured)-329(TLS)-329(settings)-330(for)-329(metal3)-329(pro)-56(ject)-329(CAPI)-329(pro)28(vider)-329(rep)-28(ositories,)-330(adapting)-329(to)-330(securit)28(y)-329(requiremen)28(ts)-330(with)]TJ 0 -10.694 Td [(unit)-333(tests)-334(in)-333(Go)-333(for)-334(d)1(iv)27(erse)-333(con\014guration)-333(scenarios.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.879 -12.725 Td [(\210)]TJ
+0 g 0 G
+/F48 10.9091 Tf 10.879 0 Td [(Skills:)]TJ/F37 10.9091 Tf 37.327 0 Td [(Kub)-28(ernetes,)-333(Go,)-333(Cloud)-334(Securit)28(y)84(,)-334(Risk)-333(Analysis,)-333(Information)-334(Securit)28(y)84(,)-334(Jenkins,)-333(Bash)]TJ/F48 10.9091 Tf -61.327 -17.468 Td [(Soft)32(w)32(are)-383(Engineer)-384(-)-383(Bac)32(k)32(end)-383(D)-1(ev)32(elop)-32(er)]TJ/F37 10.9091 Tf 453.794 0 Td [(No)28(v)-334(2021)-333(-)-333(Aug)-334(2022)]TJ/F49 10.9091 Tf -453.794 -10.693 Td [(Emumb)51(a)-358(Pvt)-357(Ltd.)]TJ 482.64 0 Td [(Islamab)51(ad,)-358(PK)]TJ
+0 g 0 G
+/F50 10.9091 Tf -469.518 -17.468 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.878 0 Td [(Created)-333(unit)-334(tests)-333(for)-333(In)28(trado's)-334(healthcare)-333(liv)28(e)-334(c)28(hat)-333(p)-28(ortal,)-333(ensuring)-333(a)-334(high-quali)1(t)27(y)-333(service)-333(deplo)27(ymen)28(t.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.878 -12.726 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.878 0 Td [(Designed)-463(Electronic)-463(Health)-463(Record)-464(w)28(ork\015o)28(ws)-463(for)-463(CO)28(VID-)-1(19)-463(and)-463(other)-463(cases,)-496(managing)-463(real-time)-463(SMS)-463(and)]TJ 0 -10.693 Td [(IVR-based)-333(patien)27(t)-333(resp)-28(onses)-333(for)-333(prompt)-334(d)1(iagnose)-1(s.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.878 -12.726 Td [(\210)]TJ
+0 g 0 G
+/F48 10.9091 Tf 10.878 0 Td [(Skills:)]TJ/F37 10.9091 Tf 37.327 0 Td [(No)-28(de.js,)-333(Unit)-333(testing,)-334(T)28(yp)-28(escript,)-333(MySQL,)-333(W)83(ebso)-28(c)28(k)28(ets,)-333(So)-28(c)28(k)27(et.io,)-333(Mo)-28(c)28(ha,)-333(Chai)]TJ/F48 10.9091 Tf -61.327 -17.467 Td [(Bac)32(k)32(end)-383(Dev)32(el)-1(op)-31(er)]TJ/F37 10.9091 Tf 452.582 0 Td [(Ma)28(y)-334(2021)-333(-)-333(No)28(v)-334(2021)]TJ/F49 10.9091 Tf -452.582 -10.694 Td [(Gr)51(aana.c)51(om)]TJ 482.64 0 Td [(Islamab)51(ad,)-358(PK)]TJ
+0 g 0 G
+/F50 10.9091 Tf -469.518 -17.467 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.878 0 Td [(Ev)56(aluated)-255(sales)-254(team)-255(Key)-255(P)28(erformance)-254(Indicators)-255(using)-254(quarterly)-255(prop)-27(ert)27(y)-254(sales)-255(data)-254(for)-255(p)-27(erformance)-255(v)56(alidation.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.878 -11.517 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.878 0 Td [(In)28(tegrated)-367(Amazon)-367(T)83(ranscrib)-28(e)-367(in)28(to)-367(the)-367(p)-28(ortal)-367(to)-367(pro)28(vide)-367(sales)-367(teams)-368(wit)1(h)-368(k)28(ey)-367(prop)-27(e)-1(rt)28(y)-367(details)-367(from)-367(customer)]TJ 0 -10.693 Td [(calls,)-333(streamlining)-334(inf)1(ormation)-334(access.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.878 -12.726 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.878 0 Td [(Implemen)28(ted)-341(bac)27(k)28(end)-341(cac)28(hing)-341(for)-341(quic)27(k)28(er)-341(retriev)56(al)-342(of)-341(prop)-27(ert)27(y)-341(leads,)-343(enhancing)-341(query)-341(sp)-28(eed)-341(and)-341(o)28(v)27(erall)-341(op)-27(era-)]TJ 0 -10.693 Td [(tional)-333(e\016ciency)83(.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.878 -13.332 Td [(\210)]TJ
+0 g 0 G
+/F48 10.9091 Tf 10.878 0 Td [(Skills:)]TJ/F37 10.9091 Tf 37.327 0 Td [(No)-28(de.js,)-333(Redis,)-333(Ja)27(v)56(ascript,)-333(P)27(ostgreSQ)1(L,)-334(A)111(WS)-333(\050S3,)-333(T)83(ranscrib)-28(e\051,)-333(GCP)83(,)-333(GitLab)-333(CI/CD)]TJ/F48 10.9091 Tf -61.327 -18.074 Td [(Soft)32(w)32(are)-383(Engineer)-384(-)-383(F)96(ull)-384(Stac)32(k)-383(Dev)32(elop)-32(er)]TJ/F37 10.9091 Tf 453.158 0 Td [(Ma)28(y)-334(2020)-333(-)-333(Apr)-333(2021)]TJ/F49 10.9091 Tf -453.158 -10.693 Td [(Syntax)-358(Squad)-358(Pvt.)-460(Ltd)]TJ 482.641 0 Td [(Islamab)51(ad,)-357(P)-1(K)]TJ
+0 g 0 G
+/F50 10.9091 Tf -469.519 -17.468 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.878 0 Td [(Dev)28(elop)-28(ed)-455(a)-454(scalable)-455(bac)28(k)28(end)-455(arc)28(hitecture)-455(for)-454(the)-455(application)-454(comprising)-455(of)-454(order)-455(b)-28(o)-27(oking)-455(and)-455(PDF)-454(rep)-28(ort)]TJ 0 -10.693 Td [(generation,)-333(sourcing)-334(d)1(ata)-334(from)-333(Radon)-333(Adapters)-334(for)-333(increased)-333(rev)28(e)-1(n)28(ue)-333(generation)-333(of)-334(the)-333(clien)28(ts.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.878 -12.726 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.878 0 Td [(In)28(tegrated)-334(AP)1(Is)-334(for)-333(pa)28(ymen)27(t)-333(in)28(v)28(oices)-334(and)-333(subscriptions,)-333(enabling)-333(acces)-1(sib)1(ilit)27(y)-333(for)-333(other)-333(radon)-334(detection)]TJ 0 -9.484 Td [(companies.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.878 -12.726 Td [(\210)]TJ
+0 g 0 G
+/F37 10.9091 Tf 10.878 0 Td [(Devised)-320(algorithms)-320(for)-320(state-wise)-320(radon)-320(lev)28(el)-321(statistics)-320(and)-320(job)-320(insigh)28(ts,)-322(optimizing)-320(costs)-321(and)-320(ti)1(m)-1(e)-320(for)-320(customer)]TJ 0 -9.484 Td [(prop)-28(ert)28(y)-333(visits.)]TJ
+0 g 0 G
+/F50 10.9091 Tf -10.878 -13.332 Td [(\210)]TJ
+0 g 0 G
+/F48 10.9091 Tf 10.878 0 Td [(Skills:)]TJ/F37 10.9091 Tf 37.327 0 Td [(No)-28(de.js,)-333(Next.js,)-333(React.js,)-334(MongoDB,)-333(IoT,)-333(A)111(WS)-334(\050E)1(C2\051,)-334(Do)-28(c)28(k)28(er,)-333(Material)-334(UI)]TJ/F48 10.9091 Tf -61.327 -23.96 Td [(PR)32(OJECTS)]TJ
+ET
+q
+1 0 0 1 28.8 163.078 cm
+[]0 d 0 J 0.398 w 0 0 m 554.401 0 l S
+Q
+0 g 0 G
+0 g 0 G
+0 g 0 G
+0 g 0 G
+BT
+/F48 10.9091 Tf 28.8 153.481 Td [(Blo)-32(c)32(k)32(c)32(hain)-339(Based)-338(V)96(ehicle)-339(Registration)-338(and)-339(V)96(eri\014cation)]TJ/F37 10.9091 Tf 303.839 0 Td [(|)]TJ/F49 10.9091 Tf 14.12 0 Td [(Bachelor)-322(Thesis)-322(Pr)52(oje)51(ct)]TJ/F37 10.9091 Tf 114.021 0 Td [(:)-425(Dev)28(elop)-28(ed)-294(a)-295(b)1(lo)-28(c)28(k)27(c)28(hain-)]TJ -431.98 -10.693 Td [(based)-480(solution)-480(aimed)-480(at)-480(v)28(erifying)-480(the)-480(aut)1(hen)27(ticit)28(y)-480(of)-480(v)28(ehicles.)-884(Successfully)-480(presen)28(ted)-480(the)-480(solution)-480(to)-480(the)-480(excise)]TJ 0 -10.693 Td [(departmen)28(t,)-333(guaran)27(teeing)-333(the)-333(prev)28(en)27(tion)-333(of)-333(coun)28(terfeit)-334(v)28(ehicle)-333(registrations.)]TJ
+0 g 0 G
+0 g 0 G
+/F48 10.9091 Tf 0 -13.332 Td [(Skills:)]TJ/F37 10.9091 Tf 37.327 0 Td [(Hyp)-28(erledger)-333(F)83(abric,)-333(No)-28(de.js,)-333(React.js,)-333(Couc)27(hDB,)-333(System)-333(Arc)27(h)1(ite)-1(ctu)1(re)-334(Design,)-333(A)111(WS)-333(\050EC2\051,)-334(Do)-27(c)27(k)28(er)]TJ/F48 10.9091 Tf -37.327 -23.96 Td [(EDUCA)96(TION)]TJ
+ET
+q
+1 0 0 1 28.8 88.626 cm
+[]0 d 0 J 0.398 w 0 0 m 554.401 0 l S
+Q
+0 g 0 G
+0 g 0 G
+BT
+/F48 10.9091 Tf 28.8 73.47 Td [(M.Sc)-383(\050Securit)32(y)-384(&)-383(Cloud)-383(Computing\051)]TJ/F37 10.9091 Tf 418.279 0 Td [(Helsinki,FI/Cop)-28(enhagen,DK)]TJ/F49 10.9091 Tf -418.279 -11.905 Td [(A)51(alto)-358(University)-357(&)-358(DTU)]TJ/F37 10.9091 Tf 123.714 0 Td [(\0504.7/5.0\051)]TJ/F49 10.9091 Tf 372.893 0 Td [(2022)-358(-)-358(2024)]TJ/F48 10.9091 Tf -496.607 -18.074 Td [(Soft)32(w)32(are)-383(Engineering)]TJ/F37 10.9091 Tf 116.847 0 Td [(,)-30945(Islamabad,)-333(P)27(akistan)]TJ/F49 10.9091 Tf -116.847 -11.299 Td [(National)-358(University)-357(of)-358(Scienc)51(es)-358(&)-358(T)77(e)51(chnolo)51(gy)]TJ/F37 10.9091 Tf 222.521 0 Td [(\0503.76/4.0\051)]TJ/F49 10.9091 Tf 274.086 0 Td [(2016)-358(-)-358(2020)]TJ
+0 g 0 G
+0 g 0 G
 ET
