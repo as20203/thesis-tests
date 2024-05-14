@@ -16,6 +16,19 @@ def vconcat_resize_min(im_list, interpolation=cv2.INTER_CUBIC):
                       for im in im_list]
     return cv2.vconcat(im_list_resize)
 
+def detect_word_space(previous_word, current_word):
+    # previous_word = data_frame.iloc[index - 1]
+    # current_word  = data_frame.iloc[index]
+    # left is x coordinate and top is y coordinate
+    if (previous_word is not None and previous_word['line_num'] == current_word['line_num']):
+        space_top_left_x = previous_word['left'] + previous_word['width']
+        space_top_left_y = previous_word['top']
+        space_bottom_right_x = current_word['left']
+        space_bottom_right_y =  current_word['top'] + current_word['height']
+        return (space_top_left_x, space_top_left_y, space_bottom_right_x, space_bottom_right_y)
+    return None
+
+
 #iterate through every page
 for i, page in enumerate(pages):
     
@@ -35,18 +48,30 @@ for i, page in enumerate(pages):
     df["page_num"] = page_num
     #for each page, paragraph and line combination, create line text and bounding box dimension
     page_par_line_dict = {}
-    for index, row in df.iterrows():
+    data_frame = df.iterrows()
+    prev_word = None
+    for index, row in data_frame:
+        ## each row is a word.
         page_par_line = f"{page_num}_{row['par_num']}_{row['line_num']}"
         if(page_par_line not in page_par_line_dict):
-            page_par_line_dict[page_par_line] = {"text": str(row["text"]) + " ", "box": (row['left'], row['top'], row['left'] + row['width'], row['top'] + row['height'])}
+            ## First character of the line.
+            page_par_line_dict[page_par_line] = {
+                "text": str(row["text"]) + " ", 
+                "box": (row['left'], row['top'], row['left'] + row['width'], row['top'] + row['height'])
+                }
         else:
+            ## To-do detect word spaces here:
+            space = detect_word_space(prev_word, row)
+            page_par_line_dict[page_par_line][f"space_{prev_word['text']}_{row['text']}"] = space
             page_par_line_dict[page_par_line]["text"] = page_par_line_dict[page_par_line]["text"] + str(row["text"]) + " "
+            ## Detects the lines and for bounding box gets the maximum for right lower edge and minimum for top right edge
             page_par_line_dict[page_par_line]['box'] = (min(page_par_line_dict[page_par_line]['box'][0], row['left']), 
                                                   min(page_par_line_dict[page_par_line]['box'][1], row['top']), 
                                                   max(page_par_line_dict[page_par_line]['box'][2], row['left'] + row['width']), 
                                                   max(page_par_line_dict[page_par_line]['box'][3], row['top'] + row['height']))
+        prev_word = row
 
-    
+
     for entry in page_par_line_dict:
         splitted_key = entry.split('_')
         entry_value = page_par_line_dict[entry]
@@ -60,8 +85,11 @@ for i, page in enumerate(pages):
     
     #draw bounding boxes for the lines detected in that image
     for line in page_par_line_dict.values():
+        for key in line.keys():
+            if key.startswith('space'):
+                print('key',key,'value',line[key])
+                cv2.rectangle(image, (line[key][0], line[key][1]), (line[key][2], line[key][3]), (0, 0, 255), 1)
         if line['box'] is not None:
-            print('Line', line)
             cv2.rectangle(image, (line['box'][0], line['box'][1]), (line['box'][2], line['box'][3]), (0, 0, 255), 2)
     
     if(master_ocr_image == ""):
@@ -76,4 +104,3 @@ cv2.imwrite('master_ocr_image.jpg', resized_img)
 
 #master ocr df with all pages, paragraph, lines, text and bounding box info
 master_ocr_df = pd.DataFrame(master_page_par_line_list)
-print(master_ocr_df)
