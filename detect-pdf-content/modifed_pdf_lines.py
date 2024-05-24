@@ -1,3 +1,26 @@
+def count_negative_space_indices(array, threshold=-50):
+    count = 0
+
+    for item in array:
+        if item.startswith('s:'):
+            try:
+                value = int(item[2:])
+                if value < threshold:
+                    count += 1
+            except ValueError:
+                # Handle the case where the value part is not a valid integer
+                continue
+
+    return count
+
+def count_bits(bit_sequence):
+    count_ones = bit_sequence.count('1')
+    count_zeros = bit_sequence.count('0')
+    
+    return count_ones, count_zeros
+
+
+
 def modify_word(word, update_str = ''):
     updated_word = ''
     for char in word:
@@ -24,15 +47,38 @@ def modify_last_word(content):
 
 
 
-def modify_line_spaces(line_text, space_value = 0):
+def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = ''):
     updated_content = line_text.copy()
-    space_count = 0
+    bit_list_index = 0
     index = 0
-    space_identifier = 'I'
-    space_separator = [']','TJ','\n','1 0 0 rg 1 0 0 RG', '\n', '[({})]TJ'.format(space_identifier), '\n', '0 g 0 G', '\n', '[']
+    # space_count = count_negative_space_indices(updated_content)
+    # print('Space count: ', space_count)
+
+    # ones_count, zeros_count = count_bits(encoded_bit_sequence[:space_count])
+    # print(ones_count, zeros_count)
+    bit_list = list(encoded_bit_sequence)
+    # count_difference = abs(ones_count-zeros_count)
+    # is_ones_greater = False
+    # if ones_count >= zeros_count:
+    #     is_ones_greater = True
+
+    ## Decide which ones will increase the space 
+    ## and which will decrease so difference is close to zero.
+    ## if ones are greater than zero
+
+    ## To-do
+    ## pass the bit string here
+    ## detect total spaces in each line say 5.
+    ## 2 ones 3 zeros
+    ## difference of changes should be close to zero in each line.
+    ### 1000111
+    ## append it to each line.
+    # space_identifier = 'I'
+    # space_separator = [']','TJ','\n','1 0 0 rg 1 0 0 RG', '\n', '[({})]TJ'.format(space_identifier), '\n', '0 g 0 G', '\n', '[']
     while index < len(updated_content):
     # for index,item in enumerate(updated_content):
         item = updated_content[index]
+        spaces_difference = 0
         if item.startswith("s:"):
             space = int(item[2:])
             ## Space between words is usually negative.
@@ -40,22 +86,48 @@ def modify_line_spaces(line_text, space_value = 0):
             ## Space between characters is usually positive
             ## if negative it represents kerning and the value is usually quite low.
             if space < 0 and space < -50:
-                space_count+=1
-                if space_count % 2 == 0:
-                    space += space_value
-                else:
+                bit = bit_list[bit_list_index]
+                print('bit: ', bit)
+
+                # space_count+=1
+                # if space_count % 2 == 0:
+                #     space += space_value
+                # else:
+                #     space -= space_value
+                if bit  == "1":
+                    print('its 1')
                     space -= space_value
+                    # if is_ones_greater:
+                    #     space += space_value
+                    #     spaces_difference += space_value
+                    # elif not(is_ones_greater) and (count_difference) != 0:
+                    #     space += (space_value * 2)
+                    #     spaces_difference  += (space_value * 2)
+                    #     count_difference -= 1
+                else:
+                    print('its 0')
+                    space += space_value
+                    # if not(is_ones_greater):
+                    #     space -= space_value
+                    #     spaces_difference -= space_value
+                    # elif (is_ones_greater) and (count_difference) != 0:
+                    #     space -= (space_value * 2)
+                    #     spaces_difference -= (space_value * 2)
+                    #     count_difference -= 1
+                bit_list_index += 1
+                # space_count+=1
                 updated_content[index] = 's:{}'.format(space)
-                updated_content[index:index] = space_separator
-                index += len(space_separator)
+                # updated_content[index:index] = space_separator
+                # index += len(space_separator)
         index += 1
+    print('Space difference: ', spaces_difference)
 
     return updated_content
 
 
            
 
-def modified_pdf_lines(pdf_lines):
+def modified_pdf_lines(pdf_lines, encoded_bit_sequence = ''):
     updated_pdf_lines = []
     pdf_line = ''
     for item in pdf_lines:
@@ -77,7 +149,7 @@ def modified_pdf_lines(pdf_lines):
             ## modify spaces or change words etc.
             ## ToDo write code that will now modify the words and spaces.
             # modified_content = modify_last_word(content_text)
-            modified_content = modify_line_spaces(line_text, 0)
+            modified_content = modify_line_spaces(line_text, 50, encoded_bit_sequence)
 
 
             ## join content as updated result.

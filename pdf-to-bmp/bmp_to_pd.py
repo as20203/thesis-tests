@@ -4,8 +4,13 @@ import cv2
 import pandas as pd
 import numpy as np
 
-pages = convert_from_path('loren-ipsum/loren_ipsum_text_thesis.pdf', 300)
 
+filename = 'loren-ipsum/loren_ipsum_text_thesis.result'
+pages = convert_from_path(f"{filename}.pdf")
+
+# image = cv2.imread(filename)
+# Increase the DPI by resizing
+# pages = [image]
 master_page_par_line_list = []
 master_ocr_image = ""
 
@@ -84,13 +89,15 @@ for i, page in enumerate(pages):
         })
     
     #draw bounding boxes for the lines detected in that image
-    for line in page_par_line_dict.values():
-        for key in line.keys():
-            if key.startswith('space'):
-                print('key',key,'value',line[key])
-                cv2.rectangle(image, (line[key][0], line[key][1]), (line[key][2], line[key][3]), (0, 0, 255), 1)
-        if line['box'] is not None:
-            cv2.rectangle(image, (line['box'][0], line['box'][1]), (line['box'][2], line['box'][3]), (0, 0, 255), 2)
+    with open(filename + '.txt', 'w') as file:
+        for line in page_par_line_dict.values():
+            for key in line.keys():
+                if key.startswith('space'):
+                    file.write(str(f"key: {key}, value: {line[key]}, width: {abs(line[key][2] -  line[key][0])}" + '\n'))
+                    print('key',key,'value',line[key], 'width',line[key][2] -  line[key][0])
+                    cv2.rectangle(image, (line[key][0], line[key][1]), (line[key][2], line[key][3]), (0, 0, 255), 1)
+            if line['box'] is not None:
+                cv2.rectangle(image, (line['box'][0], line['box'][1]), (line['box'][2], line['box'][3]), (0, 0, 255), 2)
     
     if(master_ocr_image == ""):
         master_ocr_image = image
@@ -100,7 +107,7 @@ for i, page in enumerate(pages):
 
 #resize the master image and save it to your local working directory
 resized_img = cv2.resize(master_ocr_image, (0, 0), fx=0.5, fy=0.5)
-cv2.imwrite('master_ocr_image.jpg', resized_img)
+cv2.imwrite(f"{filename}.jpg", resized_img)
 
 #master ocr df with all pages, paragraph, lines, text and bounding box info
 master_ocr_df = pd.DataFrame(master_page_par_line_list)

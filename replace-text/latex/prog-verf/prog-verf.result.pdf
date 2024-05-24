@@ -29,874 +29,54 @@ endobj
 endobj
 5 0 obj
 <<
-/Length 21064
+/Length 13069
 >>
 stream
 0 g 0 G
 0 g 0 G
 0 g 0 G
 BT
-/F39 20.6625 Tf 126.285 1033.335 Td [(1)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-1125(Assignmen)31(t)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-375(2.5)]TJ/F39 17.2154 Tf 0 -36.125 Td [(1.1)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-1125(Exercises)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-375(1)]TJ/F37 14.3462 Tf 0 -26.202 Td [(Consider)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(pro)1(gram)]TJ/F42 14.3462 Tf 138.988 0 Td [(C)]TJ/F37 14.3462 Tf 15.763 0 Td [(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(pre-)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(p)-27(ostconditions)]TJ/F42 14.3462 Tf 176.916 0 Td [(F)]TJ/F37 14.3462 Tf 15.727 0 Td [(and)]TJ/F42 14.3462 Tf 27.314 0 Td [(H)]TJ/F37 14.3462 Tf 17.429 0 Td [(as)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(follo)27(ws:)]TJ
+/F39 20.6625 Tf 126.285 1033.335 Td [(1)-1275(Assignmen)31(t)-225(2.5)]TJ/F39 17.2154 Tf 0 -36.125 Td [(1.1)-1275(Exercises)-225(1)]TJ/F37 14.3462 Tf 0 -26.202 Td [(Consider)-476(the)-177(pro)1(gram)]TJ/F42 14.3462 Tf 138.988 0 Td [(C)]TJ/F37 14.3462 Tf 15.763 0 Td [(and)-476(pre-)-177(and)-476(p)-27(ostconditions)]TJ/F42 14.3462 Tf 176.916 0 Td [(F)]TJ/F37 14.3462 Tf 15.727 0 Td [(and)]TJ/F42 14.3462 Tf 27.314 0 Td [(H)]TJ/F37 14.3462 Tf 17.429 0 Td [(as)-176(follo)27(ws:)]TJ
 0 g 0 G
 /F46 14.3462 Tf -370.871 -30.786 Td [(\210)]TJ
 0 g 0 G
-/F37 14.3462 Tf 13.852 0 Td [(Program)]TJ/F42 14.3462 Tf 57.942 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(:)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-435(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(2;)]TJ
+/F37 14.3462 Tf 13.852 0 Td [(Program)]TJ/F42 14.3462 Tf 57.942 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(:)-585(x)-177(=)-476(2;)]TJ
 0 g 0 G
 /F46 14.3462 Tf -82.874 -28.428 Td [(\210)]TJ
 0 g 0 G
-/F37 14.3462 Tf 13.852 0 Td [(Precondition)]TJ/F42 14.3462 Tf 82.914 0 Td [(F)]TJ/F37 14.3462 Tf 11.045 0 Td [(:)]TJ/F42 14.3462 Tf 10.145 0 Td [(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(0)]TJ
+/F37 14.3462 Tf 13.852 0 Td [(Precondition)]TJ/F42 14.3462 Tf 82.914 0 Td [(F)]TJ/F37 14.3462 Tf 11.045 0 Td [(:)]TJ/F42 14.3462 Tf 10.145 0 Td [(x)-428(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(0)]TJ
 0 g 0 G
 /F46 14.3462 Tf -144.834 -28.427 Td [(\210)]TJ
 0 g 0 G
-/F37 14.3462 Tf 13.852 0 Td [(P)27(ostcondition)]TJ/F42 14.3462 Tf 88.845 0 Td [(H)]TJ/F37 14.3462 Tf 12.748 0 Td [(:)]TJ/F42 14.3462 Tf 10.145 0 Td [(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(1)]TJ -152.663 -30.786 Td [(A)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(coun)27(terexample)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(for)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(Rule)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(A:)]TJ 0 -16.937 Td [(Let)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(G:)]TJ/F42 14.3462 Tf 44.771 0 Td [(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(2,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(using)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(Rule)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(A,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(if)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(apply)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(it)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(triple)]TJ/F43 14.3462 Tf 269.503 0 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F42 14.3462 Tf 29.389 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.638 0 Td [(C)]TJ/F43 14.3462 Tf 15.762 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.43 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(get:)]TJ
+/F37 14.3462 Tf 13.852 0 Td [(P)27(ostcondition)]TJ/F42 14.3462 Tf 88.845 0 Td [(H)]TJ/F37 14.3462 Tf 12.748 0 Td [(:)]TJ/F42 14.3462 Tf 10.145 0 Td [(x)-428(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(1)]TJ -152.663 -30.786 Td [(A)-476(coun)27(terexample)-176(for)-477(Rule)-176(A:)]TJ 0 -16.937 Td [(Let)-476(G:)]TJ/F42 14.3462 Tf 44.771 0 Td [(x)-128(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(2,)-476(using)-177(Rule)-476(A,)-176(if)-477(w)27(e)-176(apply)-476(it)-177(to)-476(the)-176(triple)]TJ/F43 14.3462 Tf 269.503 0 Td [(`)-428(f)167(f)]TJ/F42 14.3462 Tf 29.389 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.638 0 Td [(C)]TJ/F43 14.3462 Tf 15.762 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.43 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-176(w)27(e)-476(get:)]TJ
 0 g 0 G
 0 g 0 G
-/F43 14.3462 Tf -299.171 -33.558 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(0)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.637 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ/F43 14.3462 Tf 26.617 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.638 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(1)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ
+/F43 14.3462 Tf -299.171 -33.558 Td [(`)-428(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(0)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.637 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)-128(2)]TJ/F43 14.3462 Tf 26.617 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.638 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(1)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ
 ET
 q
 1 0 0 1 259.649 796.308 cm
 []0 d 0 J 0.398 w 0 0 m 295.025 0 l S
 Q
 BT
-/F37 14.3462 Tf 557.663 791.326 Td [(ruleA)]TJ/F43 14.3462 Tf -294.029 -7.97 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(0)]TJ/F43 14.3462 Tf 10.211 0 Td [(^)]TJ/F47 14.3462 Tf 12.753 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(2)]TJ/F43 14.3462 Tf 11.705 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.638 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ/F43 14.3462 Tf 26.617 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(1)]TJ/F43 14.3462 Tf 10.212 0 Td [(^)]TJ/F47 14.3462 Tf 12.752 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(2)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ/F37 14.3462 Tf -391.379 -29.193 Td [(W)82(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-290(ha)27(v)27(e:)]TJ/F43 14.3462 Tf 61.246 0 Td [(j)]TJ/F37 14.3462 Tf 1.594 0 Td [(=)]TJ/F43 14.3462 Tf 14.911 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.11 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(0)]TJ/F43 14.3462 Tf 11.179 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.11 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ/F43 14.3462 Tf 26.089 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.111 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(1)]TJ/F43 14.3462 Tf 11.178 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-297(whic)27(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-289(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-290(true.)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(Ho)27(w)28(ev)27(er,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-297(simplifying)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-290(t)1(he)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-290(conditions,)]TJ -271.476 -16.936 Td [(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(h)1(a)27(v)27(e)]TJ/F43 14.3462 Tf 52.619 0 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F47 14.3462 Tf 29.165 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(2)]TJ/F43 14.3462 Tf 11.482 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.414 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ/F43 14.3462 Tf 26.393 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.413 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(2)]TJ/F43 14.3462 Tf 11.482 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-314(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(p)-27(ostcondition)]TJ/F42 14.3462 Tf 120.022 0 Td [(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(2)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(not)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-310(satis\014ed)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(b)27(y)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-310(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(program,)]TJ -386.746 -16.937 Td [(since)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(after)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(execu)1(tion,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(ha)27(v)28(e)]TJ/F42 14.3462 Tf 187.373 0 Td [(x)]TJ/F37 14.3462 Tf 11.967 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(whic)27(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(do)-27(esn't)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(satisfy)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(condition.)]TJ -178.27 -16.936 Td [(A)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(Coun)27(terexample)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(for)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(Rule)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(B:)]TJ 0 -16.937 Td [(Let)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(a)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(x+1,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(using)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(Rule)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(B,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(if)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(apply)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(it)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(t)1(o)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(triple)]TJ/F43 14.3462 Tf 339.739 0 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F42 14.3462 Tf 29.389 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.638 0 Td [(C)]TJ/F43 14.3462 Tf 15.762 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.43 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(get:)]TJ
+/F37 14.3462 Tf 557.663 791.326 Td [(ruleA)]TJ/F43 14.3462 Tf -294.029 -7.97 Td [(`)-428(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(0)]TJ/F43 14.3462 Tf 10.211 0 Td [(^)]TJ/F47 14.3462 Tf 12.753 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(2)]TJ/F43 14.3462 Tf 11.705 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.638 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)-128(2)]TJ/F43 14.3462 Tf 26.617 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(1)]TJ/F43 14.3462 Tf 10.212 0 Td [(^)]TJ/F47 14.3462 Tf 12.752 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(2)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ/F37 14.3462 Tf -391.379 -29.193 Td [(W)82(e)-440(ha)27(v)27(e:)]TJ/F43 14.3462 Tf 61.246 0 Td [(j)]TJ/F37 14.3462 Tf 1.594 0 Td [(=)]TJ/F43 14.3462 Tf 14.911 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.11 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(0)]TJ/F43 14.3462 Tf 11.179 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.11 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)-128(2)]TJ/F43 14.3462 Tf 26.089 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.111 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(1)]TJ/F43 14.3462 Tf 11.178 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-447(whic)27(h)-139(is)-440(true.)-273(Ho)27(w)28(ev)27(er,)-447(simplifying)-140(t)1(he)-440(conditions,)]TJ -271.476 -16.936 Td [(w)27(e)-461(h)1(a)27(v)27(e)]TJ/F43 14.3462 Tf 52.619 0 Td [(`)-128(f)167(f)]TJ/F47 14.3462 Tf 29.165 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(2)]TJ/F43 14.3462 Tf 11.482 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.414 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)-428(2)]TJ/F43 14.3462 Tf 26.393 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.413 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(2)]TJ/F43 14.3462 Tf 11.482 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-164(the)-461(p)-27(ostcondition)]TJ/F42 14.3462 Tf 120.022 0 Td [(x)-128(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(2)-461(is)-161(not)-460(satis\014ed)-161(b)27(y)-460(the)-161(program,)]TJ -386.746 -16.937 Td [(since)-476(after)-177(execu)1(tion,)-477(w)27(e)-176(ha)27(v)28(e)]TJ/F42 14.3462 Tf 187.373 0 Td [(x)]TJ/F37 14.3462 Tf 11.967 0 Td [(=)-428(2)-176(whic)27(h)-476(do)-27(esn't)-177(satisfy)-476(the)-176(condition.)]TJ -178.27 -16.936 Td [(A)-476(Coun)27(terexample)-176(for)-477(Rule)-176(B:)]TJ 0 -16.937 Td [(Let)-476(a)-177(=)-476(x+1,)-176(using)-477(Rule)-176(B,)-476(if)-177(w)27(e)-476(apply)-176(it)-477(t)1(o)-177(the)-476(triple)]TJ/F43 14.3462 Tf 339.739 0 Td [(`)-128(f)167(f)]TJ/F42 14.3462 Tf 29.389 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.638 0 Td [(C)]TJ/F43 14.3462 Tf 15.762 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.43 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-476(w)27(e)-176(get:)]TJ
 0 g 0 G
 0 g 0 G
-/F43 14.3462 Tf -297.757 -33.558 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(0)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.638 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ/F43 14.3462 Tf 26.617 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(1)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ
+/F43 14.3462 Tf -297.757 -33.558 Td [(`)-428(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(0)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.638 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)-128(2)]TJ/F43 14.3462 Tf 26.617 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(1)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ
 ET
 q
 1 0 0 1 308.891 647.081 cm
 []0 d 0 J 0.398 w 0 0 m 196.542 0 l S
 Q
 BT
-/F37 14.3462 Tf 508.421 642.1 Td [(ruleA)]TJ/F43 14.3462 Tf -195.545 -7.97 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(1)]TJ/F43 14.3462 Tf 11.705 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.638 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ/F43 14.3462 Tf 26.617 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(2)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ/F37 14.3462 Tf -342.137 -29.193 Td [(W)82(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-290(ha)27(v)27(e:)]TJ/F43 14.3462 Tf 61.246 0 Td [(j)]TJ/F37 14.3462 Tf 1.594 0 Td [(=)]TJ/F43 14.3462 Tf 14.911 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.11 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(0)]TJ/F43 14.3462 Tf 11.179 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.11 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ/F43 14.3462 Tf 26.089 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.111 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(1)]TJ/F43 14.3462 Tf 11.178 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-297(whic)27(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-289(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-290(true.)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(Ho)27(w)28(ev)27(er,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-297(simplifying)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-290(t)1(he)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-290(conditions,)]TJ -271.476 -16.937 Td [(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(h)1(a)27(v)27(e)]TJ/F43 14.3462 Tf 52.619 0 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F47 14.3462 Tf 29.165 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(1)]TJ/F43 14.3462 Tf 11.482 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.414 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ/F43 14.3462 Tf 26.393 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.413 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(2)]TJ/F43 14.3462 Tf 11.482 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-314(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(p)-27(ostcondition)]TJ/F42 14.3462 Tf 120.022 0 Td [(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(2)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(not)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-310(satis\014ed)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(b)27(y)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-310(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-311(program,)]TJ -386.746 -16.936 Td [(since)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(after)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(execu)1(tion,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(ha)27(v)28(e)]TJ/F42 14.3462 Tf 187.373 0 Td [(x)]TJ/F37 14.3462 Tf 11.967 0 Td [(=)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(2)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(whic)27(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(do)-27(esn't)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(satisfy)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(condition.)]TJ -178.27 -16.937 Td [(In)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-338(b)-27(oth)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-337(cases,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-341(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-337(ha)27(v)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-338(sho)28(wn)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-338(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-337(applying)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-338(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-338(pro)1(p)-28(osed)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-337(rules)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-338(can)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-337(lead)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-338(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-338(incorrect)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-337(conclu-)]TJ -21.07 -16.936 Td [(sions,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(whic)27(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(demonstrates)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(their)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(unsoundness.)]TJ/F39 17.2154 Tf 0 -41.705 Td [(1.2)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-1125(Exercises)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-375(2)]TJ/F37 14.3462 Tf 0 -26.201 Td [(T)82(o)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(sho)27(w)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(w)28(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(can)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(v)27(erify)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(all)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-343(triples)]TJ/F43 14.3462 Tf 235.891 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.889 0 Td [(F)]TJ/F43 14.3462 Tf 15.977 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.889 0 Td [(C)]TJ/F43 14.3462 Tf 16.013 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.888 0 Td [(H)]TJ/F43 14.3462 Tf 17.681 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 16.888 0 Td [(if)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-343(kno)27(w)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(ho)27(w)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-343(v)27(erify)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(triples)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(of)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-344(the)]TJ -353.116 -16.937 Td [(form)]TJ/F43 14.3462 Tf 33.167 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F43 14.3462 Tf 7.92 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(w)27(e'll)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(construct)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(a)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(command)]TJ/F42 14.3462 Tf 178.399 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(.)]TJ -354.105 -16.936 Td [(Let's)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(consider)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(v)27(eri\014cation)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(conditions:)]TJ
+/F37 14.3462 Tf 508.421 642.1 Td [(ruleA)]TJ/F43 14.3462 Tf -195.545 -7.97 Td [(`)-428(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(1)]TJ/F43 14.3462 Tf 11.705 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.638 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)-128(2)]TJ/F43 14.3462 Tf 26.617 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(2)]TJ/F43 14.3462 Tf 11.706 0 Td [(g)167(g)]TJ/F37 14.3462 Tf -342.137 -29.193 Td [(W)82(e)-440(ha)27(v)27(e:)]TJ/F43 14.3462 Tf 61.246 0 Td [(j)]TJ/F37 14.3462 Tf 1.594 0 Td [(=)]TJ/F43 14.3462 Tf 14.911 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.11 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(0)]TJ/F43 14.3462 Tf 11.179 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.11 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)-128(2)]TJ/F43 14.3462 Tf 26.089 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.111 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(1)]TJ/F43 14.3462 Tf 11.178 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-447(whic)27(h)-139(is)-440(true.)-273(Ho)27(w)28(ev)27(er,)-447(simplifying)-140(t)1(he)-440(conditions,)]TJ -271.476 -16.937 Td [(w)27(e)-461(h)1(a)27(v)27(e)]TJ/F43 14.3462 Tf 52.619 0 Td [(`)-128(f)167(f)]TJ/F47 14.3462 Tf 29.165 0 Td [(x)]TJ/F42 14.3462 Tf 11.368 0 Td [(>)]TJ/F37 14.3462 Tf 14.91 0 Td [(1)]TJ/F43 14.3462 Tf 11.482 0 Td [(g)167(g)]TJ/F47 14.3462 Tf 16.414 0 Td [(x)]TJ/F37 14.3462 Tf 11.367 0 Td [(=)-428(2)]TJ/F43 14.3462 Tf 26.393 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.413 0 Td [(x)]TJ/F42 14.3462 Tf 11.367 0 Td [(>)]TJ/F37 14.3462 Tf 14.911 0 Td [(2)]TJ/F43 14.3462 Tf 11.482 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-164(the)-461(p)-27(ostcondition)]TJ/F42 14.3462 Tf 120.022 0 Td [(x)-128(>)]TJ/F37 14.3462 Tf 26.878 0 Td [(2)-461(is)-161(not)-460(satis\014ed)-161(b)27(y)-460(the)-161(program,)]TJ -386.746 -16.936 Td [(since)-476(after)-177(execu)1(tion,)-477(w)27(e)-176(ha)27(v)28(e)]TJ/F42 14.3462 Tf 187.373 0 Td [(x)]TJ/F37 14.3462 Tf 11.967 0 Td [(=)-428(2)-176(whic)27(h)-476(do)-27(esn't)-177(satisfy)-476(the)-176(condition.)]TJ -178.27 -16.937 Td [(In)-488(b)-27(oth)-187(cases,)-491(w)27(e)-187(ha)27(v)27(e)-488(sho)28(wn)-188(that)-487(applying)-188(the)-488(pro)1(p)-28(osed)-187(rules)-488(can)-187(lead)-488(to)-188(incorrect)-487(conclu-)]TJ -21.07 -16.936 Td [(sions,)-476(whic)27(h)-176(demonstrates)-477(their)-176(unsoundness.)]TJ/F39 17.2154 Tf 0 -41.705 Td [(1.2)-1275(Exercises)-225(2)]TJ/F37 14.3462 Tf 0 -26.201 Td [(T)82(o)-494(sho)27(w)-194(that)-494(w)28(e)-194(can)-494(v)27(erify)-194(all)-493(triples)]TJ/F43 14.3462 Tf 235.891 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.889 0 Td [(F)]TJ/F43 14.3462 Tf 15.977 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.889 0 Td [(C)]TJ/F43 14.3462 Tf 16.013 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.888 0 Td [(H)]TJ/F43 14.3462 Tf 17.681 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 16.888 0 Td [(if)-194(w)27(e)-493(kno)27(w)-194(ho)27(w)-494(to)-193(v)27(erify)-494(triples)-194(of)-494(the)]TJ -353.116 -16.937 Td [(form)]TJ/F43 14.3462 Tf 33.167 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F43 14.3462 Tf 7.92 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-476(w)27(e'll)-176(construct)-477(a)-176(command)]TJ/F42 14.3462 Tf 178.399 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(.)]TJ -354.105 -16.936 Td [(Let's)-476(consider)-177(the)-476(v)27(eri\014cation)-176(conditions:)]TJ
 0 g 0 G
  -3.902 -30.787 Td [(1.)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-490(F)82(or)]TJ/F43 14.3462 Tf 42.098 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 15.62 0 Td [(true)]TJ/F43 14.3462 Tf 33.195 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 15.62 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F43 14.3462 Tf 6.903 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 15.621 0 Td [(true)]TJ/F43 14.3462 Tf 33.194 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-270(w)28(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-256(ha)27(v)28(e)]TJ/F47 14.3462 Tf 58.804 0 Td [(true)]TJ/F43 14.3462 Tf 30.64 0 Td [(!)]TJ/F50 14.3462 Tf 15.457 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.237 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-270(whic)28(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-256(simpli\014es)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-255(to)]TJ/F47 14.3462 Tf 128.569 0 Td [(true)]TJ/F43 14.3462 Tf 30.64 0 Td [(!)]TJ/F47 14.3462 Tf 15.457 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(,)]TJ -550.3 -16.936 Td [(whic)27(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(trivially)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(true.)]TJ
+ [-640(F)82(or)]TJ/F43 14.3462 Tf 42.098 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 15.62 0 Td [(true)]TJ/F43 14.3462 Tf 33.195 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 15.62 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F43 14.3462 Tf 6.903 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 15.621 0 Td [(true)]TJ/F43 14.3462 Tf 33.194 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-120(w)28(e)-406(ha)27(v)28(e)]TJ/F47 14.3462 Tf 58.804 0 Td [(true)]TJ/F43 14.3462 Tf 30.64 0 Td [(!)]TJ/F50 14.3462 Tf 15.457 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.237 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051,)-120(whic)28(h)-406(simpli\014es)-105(to)]TJ/F47 14.3462 Tf 128.569 0 Td [(true)]TJ/F43 14.3462 Tf 30.64 0 Td [(!)]TJ/F47 14.3462 Tf 15.457 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(,)]TJ -550.3 -16.936 Td [(whic)27(h)-476(is)-176(trivially)-477(true.)]TJ
 0 g 0 G
  -17.95 -28.428 Td [(2.)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-490(F)82(or)]TJ/F43 14.3462 Tf 43.115 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.637 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.638 0 Td [(C)]TJ/F43 14.3462 Tf 15.762 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.43 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(ha)27(v)27(e)]TJ/F42 14.3462 Tf 61.651 0 Td [(F)]TJ/F43 14.3462 Tf 14.232 0 Td [(!)]TJ/F50 14.3462 Tf 17.535 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F37 14.3462 Tf 11.081 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.364 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(\051.)]TJ -297.265 -30.786 Td [(No)27(w,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(w)27(an)27(t)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(co)1(nstruct)]TJ/F42 14.3462 Tf 169.81 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.92 -5.206 Td [(suc)27(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(that:)]TJ/F43 14.3462 Tf -77.14 -33.873 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(true)]TJ/F43 14.3462 Tf 34.211 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.638 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.923 Td [(0)]TJ/F43 14.3462 Tf 7.921 -5.923 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-556(\050)167(\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F42 14.3462 Tf 79.601 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 14.3462 Tf 15.763 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.429 0 Td [(g)167(g)]TJ/F37 14.3462 Tf -423.554 -23.214 Td [(The)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(idea)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(mak)27(e)]TJ/F42 14.3462 Tf 126.503 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.92 -5.206 Td [(a)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(sequen)27(tial)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(comp)-28(o)1(s)-1(i)1(tion)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(of)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(t)27(w)27(o)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(commands:)]TJ/F42 14.3462 Tf 37.685 -33.873 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.923 Td [(0)]TJ/F37 14.3462 Tf 7.223 -5.923 Td [(=)]TJ/F47 14.3462 Tf 14.91 0 Td [(assume)]TJ/F42 14.3462 Tf 48.976 0 Td [(F)]TJ/F47 14.3462 Tf 11.045 0 Td [(;)]TJ/F42 14.3462 Tf 7.382 0 Td [(C)]TJ/F47 14.3462 Tf 11.08 0 Td [(;assert)]TJ/F42 14.3462 Tf 56.359 0 Td [(H)]TJ/F37 14.3462 Tf -351.244 -23.214 Td [(No)27(w,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(let's)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(j)1(ustify)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(wh)27(y)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(this)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(construction)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(correct:)]TJ
+ [-640(F)82(or)]TJ/F43 14.3462 Tf 43.115 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.637 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.638 0 Td [(C)]TJ/F43 14.3462 Tf 15.762 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.43 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-176(w)27(e)-476(ha)27(v)27(e)]TJ/F42 14.3462 Tf 61.651 0 Td [(F)]TJ/F43 14.3462 Tf 14.232 0 Td [(!)]TJ/F50 14.3462 Tf 17.535 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F37 14.3462 Tf 11.081 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.364 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(\051.)]TJ -297.265 -30.786 Td [(No)27(w,)-476(w)27(e)-176(w)27(an)27(t)-476(to)-177(co)1(nstruct)]TJ/F42 14.3462 Tf 169.81 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.92 -5.206 Td [(suc)27(h)-476(that:)]TJ/F43 14.3462 Tf -77.14 -33.873 Td [(`)-428(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(true)]TJ/F43 14.3462 Tf 34.211 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.638 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.923 Td [(0)]TJ/F43 14.3462 Tf 7.921 -5.923 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)-406(\050)167(\051)-428(`)-128(f)167(f)]TJ/F42 14.3462 Tf 79.601 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 14.3462 Tf 15.763 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.429 0 Td [(g)167(g)]TJ/F37 14.3462 Tf -423.554 -23.214 Td [(The)-476(idea)-177(is)-476(to)-176(mak)27(e)]TJ/F42 14.3462 Tf 126.503 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.92 -5.206 Td [(a)-476(sequen)27(tial)-176(comp)-28(o)1(s)-1(i)1(tion)-477(of)-176(t)27(w)27(o)-476(commands:)]TJ/F42 14.3462 Tf 37.685 -33.873 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.923 Td [(0)]TJ/F37 14.3462 Tf 7.223 -5.923 Td [(=)]TJ/F47 14.3462 Tf 14.91 0 Td [(assume)]TJ/F42 14.3462 Tf 48.976 0 Td [(F)]TJ/F47 14.3462 Tf 11.045 0 Td [(;)]TJ/F42 14.3462 Tf 7.382 0 Td [(C)]TJ/F47 14.3462 Tf 11.08 0 Td [(;assert)]TJ/F42 14.3462 Tf 56.359 0 Td [(H)]TJ/F37 14.3462 Tf -351.244 -23.214 Td [(No)27(w,)-476(let's)-177(j)1(ustify)-477(wh)27(y)-176(this)-476(construction)-176(is)-477(correct:)]TJ
 0 g 0 G
  270.078 -29.888 Td [(1)]TJ
 0 g 0 G
@@ -1571,7 +751,7 @@ endobj
 endobj
 44 0 obj
 <<
-/Length 18857
+/Length 11042
 >>
 stream
 0 g 0 G
@@ -1580,908 +760,108 @@ stream
 BT
 /F37 14.3462 Tf 143.454 1033.736 Td [(1.)]TJ
 0 g 0 G
-/F43 14.3462 Tf 17.949 0 Td [(\051)]TJ/F37 14.3462 Tf 19.028 0 Td [(\050F)82(orw)27(ard)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(direction\051)]TJ -19.028 -22.744 Td [(Assume)]TJ/F43 14.3462 Tf 52.047 0 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F43 14.3462 Tf 7.921 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(.)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-435(This)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(m)1(eans)]TJ/F47 14.3462 Tf 85.219 0 Td [(true)]TJ/F43 14.3462 Tf 32.718 0 Td [(!)]TJ/F50 14.3462 Tf 17.534 0 Td [(wp)]TJ/F37 14.3462 Tf 16.754 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.364 0 Td [(true)]TJ/F37 14.3462 Tf 29.53 0 Td [(\051.)]TJ -423.43 -22.744 Td [(By)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(de\014nition)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(of)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(w)27(eak)28(est)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(precondition,)]TJ/F50 14.3462 Tf 231.909 0 Td [(wp)]TJ/F37 14.3462 Tf 16.754 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(w)27(eak)27(est)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(form)28(ula)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(holds)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(b)-27(efore)]TJ -305.777 -16.937 Td [(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(execution)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(o)1(f)]TJ/F42 14.3462 Tf 103.012 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.207 Td [(0)]TJ/F37 14.3462 Tf 7.921 -5.207 Td [(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(guaran)27(tees)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(that)]TJ/F47 14.3462 Tf 127.673 0 Td [(true)]TJ/F37 14.3462 Tf 34.211 0 Td [(holds)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(after)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(execution)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(of)]TJ/F42 14.3462 Tf 172.936 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.207 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.207 Td [(.)]TJ -471.151 -22.744 Td [(Since)]TJ/F47 14.3462 Tf 36.678 0 Td [(true)]TJ/F37 14.3462 Tf 34.212 0 Td [(alw)27(a)27(y)1(s)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(holds,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(this)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(mea)1(ns)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(that)]TJ/F50 14.3462 Tf 186.437 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.207 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.207 Td [(]\050)]TJ/F47 14.3462 Tf 9.364 0 Td [(true)]TJ/F37 14.3462 Tf 29.53 0 Td [(\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(m)27(ust)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(also)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(alw)27(a)28(ys)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(hold.)]TJ -331.195 -22.744 Td [(Therefore,)]TJ/F42 14.3462 Tf 67.504 0 Td [(F)]TJ/F43 14.3462 Tf 14.232 0 Td [(!)]TJ/F50 14.3462 Tf 17.535 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F37 14.3462 Tf 11.081 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.364 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(\051,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(as)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(required.)]TJ
+/F43 14.3462 Tf 17.949 0 Td [(\051)]TJ/F37 14.3462 Tf 19.028 0 Td [(\050F)82(orw)27(ard)-476(direction\051)]TJ -19.028 -22.744 Td [(Assume)]TJ/F43 14.3462 Tf 52.047 0 Td [(`)-428(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F43 14.3462 Tf 7.921 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.637 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(.)-285(This)-477(m)1(eans)]TJ/F47 14.3462 Tf 85.219 0 Td [(true)]TJ/F43 14.3462 Tf 32.718 0 Td [(!)]TJ/F50 14.3462 Tf 17.534 0 Td [(wp)]TJ/F37 14.3462 Tf 16.754 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.364 0 Td [(true)]TJ/F37 14.3462 Tf 29.53 0 Td [(\051.)]TJ -423.43 -22.744 Td [(By)-395(de\014nition)-95(of)-395(w)27(eak)28(est)-95(precondition,)]TJ/F50 14.3462 Tf 231.909 0 Td [(wp)]TJ/F37 14.3462 Tf 16.754 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051)-395(is)-95(the)-395(w)27(eak)27(est)-95(form)28(ula)-395(that)-95(holds)-395(b)-27(efore)]TJ -305.777 -16.937 Td [(the)-476(execution)-177(o)1(f)]TJ/F42 14.3462 Tf 103.012 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.207 Td [(0)]TJ/F37 14.3462 Tf 7.921 -5.207 Td [(and)-476(guaran)27(tees)-176(that)]TJ/F47 14.3462 Tf 127.673 0 Td [(true)]TJ/F37 14.3462 Tf 34.211 0 Td [(holds)-476(after)-177(the)-476(execution)-176(of)]TJ/F42 14.3462 Tf 172.936 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.207 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.207 Td [(.)]TJ -471.151 -22.744 Td [(Since)]TJ/F47 14.3462 Tf 36.678 0 Td [(true)]TJ/F37 14.3462 Tf 34.212 0 Td [(alw)27(a)27(y)1(s)-477(holds,)-176(this)-477(mea)1(ns)-177(that)]TJ/F50 14.3462 Tf 186.437 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.207 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.207 Td [(]\050)]TJ/F47 14.3462 Tf 9.364 0 Td [(true)]TJ/F37 14.3462 Tf 29.53 0 Td [(\051)-476(m)27(ust)-176(also)-477(alw)27(a)28(ys)-177(hold.)]TJ -331.195 -22.744 Td [(Therefore,)]TJ/F42 14.3462 Tf 67.504 0 Td [(F)]TJ/F43 14.3462 Tf 14.232 0 Td [(!)]TJ/F50 14.3462 Tf 17.535 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F37 14.3462 Tf 11.081 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.364 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(\051,)-476(as)-177(required.)]TJ
 0 g 0 G
  -171.067 -28.551 Td [(2.)]TJ
 0 g 0 G
-/F43 14.3462 Tf 17.949 0 Td [(\050)]TJ/F37 14.3462 Tf 19.028 0 Td [(\050Bac)27(kw)27(a)1(rd)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(direction\051)]TJ -19.028 -22.744 Td [(Assume)]TJ/F43 14.3462 Tf 52.047 0 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F42 14.3462 Tf 29.39 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 14.3462 Tf 15.763 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.429 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(.)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-435(This)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(m)1(eans)]TJ/F42 14.3462 Tf 85.22 0 Td [(F)]TJ/F43 14.3462 Tf 14.232 0 Td [(!)]TJ/F50 14.3462 Tf 17.534 0 Td [(wp)]TJ/F37 14.3462 Tf 16.754 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.365 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(\051.)]TJ -346.42 -22.744 Td [(W)82(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(w)27(an)28(t)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(sho)27(w)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(that)]TJ/F43 14.3462 Tf 140.934 0 Td [(`)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-278(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F43 14.3462 Tf 7.92 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.638 0 Td [(true)]TJ/F43 14.3462 Tf 34.211 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(i.e.,)]TJ/F47 14.3462 Tf 35.118 0 Td [(true)]TJ/F43 14.3462 Tf 32.717 0 Td [(!)]TJ/F50 14.3462 Tf 17.535 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.237 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051.)]TJ -462.215 -22.744 Td [(By)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(de\014nition)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(of)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(w)27(eak)28(est)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(precondition,)]TJ/F50 14.3462 Tf 231.909 0 Td [(wp)]TJ/F37 14.3462 Tf 16.754 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(w)27(eak)27(est)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(form)28(ula)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(holds)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-245(b)-27(efore)]TJ -305.777 -16.936 Td [(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(execution)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(o)1(f)]TJ/F42 14.3462 Tf 103.012 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.921 -5.206 Td [(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(guaran)27(tees)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(that)]TJ/F47 14.3462 Tf 127.673 0 Td [(true)]TJ/F37 14.3462 Tf 34.211 0 Td [(holds)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(after)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(execution)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(of)]TJ/F42 14.3462 Tf 172.936 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(.)]TJ -471.151 -22.744 Td [(The)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-330(command)]TJ/F42 14.3462 Tf 92.984 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.978 -5.206 Td [(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-330(constructed)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(suc)27(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-330(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-330(it)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(\014rst)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-330(assumes)]TJ/F42 14.3462 Tf 249.511 0 Td [(F)]TJ/F37 14.3462 Tf 11.044 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(then)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(executes)]TJ/F42 14.3462 Tf 96.646 0 Td [(C)]TJ/F37 14.3462 Tf 11.081 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(\014nally)]TJ -480.324 -16.937 Td [(asserts)]TJ/F42 14.3462 Tf 45.497 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(.)]TJ -58.244 -22.744 Td [(This)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(means)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-299(w)28(eak)27(est)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(form)27(ula)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(holds)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(b)-28(efore)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(execution)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(of)]TJ/F42 14.3462 Tf 440.68 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.516 -5.206 Td [(is)]TJ/F42 14.3462 Tf 13.722 0 Td [(F)]TJ/F37 14.3462 Tf 11.044 0 Td [(.)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-426(And)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-298(since)]TJ/F47 14.3462 Tf -484.042 -16.936 Td [(true)]TJ/F37 14.3462 Tf 34.211 0 Td [(alw)27(a)27(ys)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(holds,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(con)1(dition)]TJ/F47 14.3462 Tf 171.454 0 Td [(true)]TJ/F37 14.3462 Tf 34.211 0 Td [(holds)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(after)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(execution)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(of)]TJ/F42 14.3462 Tf 172.936 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.237 -5.206 Td [(.)]TJ -427.13 -22.744 Td [(Therefore,)]TJ/F47 14.3462 Tf 67.504 0 Td [(true)]TJ/F43 14.3462 Tf 32.717 0 Td [(!)]TJ/F50 14.3462 Tf 17.535 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.237 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(as)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(required.)]TJ -205.67 -31.346 Td [(In)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-229(conclusion,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-248(b)27(y)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-228(constructing)]TJ/F42 14.3462 Tf 184.074 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 6.52 -5.206 Td [(as)]TJ/F47 14.3462 Tf 15.846 0 Td [(assume)]TJ/F42 14.3462 Tf 47.575 0 Td [(F)]TJ/F47 14.3462 Tf 11.045 0 Td [(;)]TJ/F42 14.3462 Tf 7.382 0 Td [(C)]TJ/F47 14.3462 Tf 11.08 0 Td [(;assert)]TJ/F42 14.3462 Tf 54.958 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-248(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-229(ha)27(v)28(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-229(sho)27(wn)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-228(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-229(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-229(can)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-228(v)27(erify)]TJ -383.378 -16.937 Td [(all)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-288(triple)1(s)]TJ/F43 14.3462 Tf 61.398 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.082 0 Td [(F)]TJ/F43 14.3462 Tf 15.17 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.082 0 Td [(C)]TJ/F43 14.3462 Tf 15.207 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.081 0 Td [(H)]TJ/F43 14.3462 Tf 16.874 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 16.081 0 Td [(if)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-288(w)28(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-288(kno)27(w)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-287(ho)27(w)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-288(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-287(v)27(erify)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-288(triples)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-287(of)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-288(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-287(form)]TJ/F43 14.3462 Tf 266.487 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.082 0 Td [(true)]TJ/F43 14.3462 Tf 33.655 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.082 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F43 14.3462 Tf 7.365 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.081 0 Td [(true)]TJ/F43 14.3462 Tf 33.656 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(.)]TJ/F39 17.2154 Tf -585.418 -41.781 Td [(1.3)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-1125(Exercises)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-375(3)]TJ
+/F43 14.3462 Tf 17.949 0 Td [(\050)]TJ/F37 14.3462 Tf 19.028 0 Td [(\050Bac)27(kw)27(a)1(rd)-477(direction\051)]TJ -19.028 -22.744 Td [(Assume)]TJ/F43 14.3462 Tf 52.047 0 Td [(`)-428(f)167(f)]TJ/F42 14.3462 Tf 29.39 0 Td [(F)]TJ/F43 14.3462 Tf 15.727 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 14.3462 Tf 15.763 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.638 0 Td [(H)]TJ/F43 14.3462 Tf 17.429 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(.)-285(This)-477(m)1(eans)]TJ/F42 14.3462 Tf 85.22 0 Td [(F)]TJ/F43 14.3462 Tf 14.232 0 Td [(!)]TJ/F50 14.3462 Tf 17.534 0 Td [(wp)]TJ/F37 14.3462 Tf 16.754 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.365 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(\051.)]TJ -346.42 -22.744 Td [(W)82(e)-477(w)27(an)28(t)-177(to)-476(sho)27(w)-176(that)]TJ/F43 14.3462 Tf 140.934 0 Td [(`)-428(f)167(f)]TJ/F47 14.3462 Tf 29.39 0 Td [(true)]TJ/F43 14.3462 Tf 34.212 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.637 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F43 14.3462 Tf 7.92 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.638 0 Td [(true)]TJ/F43 14.3462 Tf 34.211 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(,)-176(i.e.,)]TJ/F47 14.3462 Tf 35.118 0 Td [(true)]TJ/F43 14.3462 Tf 32.717 0 Td [(!)]TJ/F50 14.3462 Tf 17.535 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.237 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051.)]TJ -462.215 -22.744 Td [(By)-395(de\014nition)-95(of)-395(w)27(eak)28(est)-95(precondition,)]TJ/F50 14.3462 Tf 231.909 0 Td [(wp)]TJ/F37 14.3462 Tf 16.754 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051)-395(is)-95(the)-395(w)27(eak)27(est)-95(form)28(ula)-395(that)-95(holds)-395(b)-27(efore)]TJ -305.777 -16.936 Td [(the)-476(execution)-177(o)1(f)]TJ/F42 14.3462 Tf 103.012 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.921 -5.206 Td [(and)-476(guaran)27(tees)-176(that)]TJ/F47 14.3462 Tf 127.673 0 Td [(true)]TJ/F37 14.3462 Tf 34.211 0 Td [(holds)-476(after)-177(the)-476(execution)-176(of)]TJ/F42 14.3462 Tf 172.936 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(.)]TJ -471.151 -22.744 Td [(The)-480(command)]TJ/F42 14.3462 Tf 92.984 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.978 -5.206 Td [(is)-180(constructed)-481(suc)27(h)-180(that)-480(it)-181(\014rst)-480(assumes)]TJ/F42 14.3462 Tf 249.511 0 Td [(F)]TJ/F37 14.3462 Tf 11.044 0 Td [(,)-181(then)-481(executes)]TJ/F42 14.3462 Tf 96.646 0 Td [(C)]TJ/F37 14.3462 Tf 11.081 0 Td [(,)-181(and)-481(\014nally)]TJ -480.324 -16.937 Td [(asserts)]TJ/F42 14.3462 Tf 45.497 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(.)]TJ -58.244 -22.744 Td [(This)-448(means)-148(that)-448(the)-149(w)28(eak)27(est)-448(form)27(ula)-148(that)-448(holds)-148(b)-28(efore)-448(the)-148(execution)-448(of)]TJ/F42 14.3462 Tf 440.68 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.516 -5.206 Td [(is)]TJ/F42 14.3462 Tf 13.722 0 Td [(F)]TJ/F37 14.3462 Tf 11.044 0 Td [(.)-276(And)-448(since)]TJ/F47 14.3462 Tf -484.042 -16.936 Td [(true)]TJ/F37 14.3462 Tf 34.211 0 Td [(alw)27(a)27(ys)-476(holds,)-176(the)-477(con)1(dition)]TJ/F47 14.3462 Tf 171.454 0 Td [(true)]TJ/F37 14.3462 Tf 34.211 0 Td [(holds)-176(after)-477(the)-176(execution)-476(of)]TJ/F42 14.3462 Tf 172.936 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.237 -5.206 Td [(.)]TJ -427.13 -22.744 Td [(Therefore,)]TJ/F47 14.3462 Tf 67.504 0 Td [(true)]TJ/F43 14.3462 Tf 32.717 0 Td [(!)]TJ/F50 14.3462 Tf 17.535 0 Td [(wp)]TJ/F37 14.3462 Tf 16.753 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.081 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.237 -5.206 Td [(]\050)]TJ/F47 14.3462 Tf 9.365 0 Td [(true)]TJ/F37 14.3462 Tf 29.529 0 Td [(\051,)-476(as)-177(required.)]TJ -205.67 -31.346 Td [(In)-379(conclusion,)-98(b)27(y)-378(constructing)]TJ/F42 14.3462 Tf 184.074 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 6.52 -5.206 Td [(as)]TJ/F47 14.3462 Tf 15.846 0 Td [(assume)]TJ/F42 14.3462 Tf 47.575 0 Td [(F)]TJ/F47 14.3462 Tf 11.045 0 Td [(;)]TJ/F42 14.3462 Tf 7.382 0 Td [(C)]TJ/F47 14.3462 Tf 11.08 0 Td [(;assert)]TJ/F42 14.3462 Tf 54.958 0 Td [(H)]TJ/F37 14.3462 Tf 12.747 0 Td [(,)-98(w)27(e)-379(ha)27(v)28(e)-79(sho)27(wn)-378(that)-79(w)27(e)-379(can)-78(v)27(erify)]TJ -383.378 -16.937 Td [(all)-438(triple)1(s)]TJ/F43 14.3462 Tf 61.398 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.082 0 Td [(F)]TJ/F43 14.3462 Tf 15.17 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.082 0 Td [(C)]TJ/F43 14.3462 Tf 15.207 0 Td [(f)167(f)]TJ/F42 14.3462 Tf 16.081 0 Td [(H)]TJ/F43 14.3462 Tf 16.874 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 16.081 0 Td [(if)-138(w)28(e)-438(kno)27(w)-137(ho)27(w)-438(to)-137(v)27(erify)-438(triples)-137(of)-438(the)-137(form)]TJ/F43 14.3462 Tf 266.487 0 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.082 0 Td [(true)]TJ/F43 14.3462 Tf 33.655 0 Td [(g)167(g)]TJ/F42 14.3462 Tf 16.082 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F43 14.3462 Tf 7.365 -5.206 Td [(f)167(f)]TJ/F47 14.3462 Tf 16.081 0 Td [(true)]TJ/F43 14.3462 Tf 33.656 0 Td [(g)167(g)]TJ/F37 14.3462 Tf 11.955 0 Td [(.)]TJ/F39 17.2154 Tf -585.418 -41.781 Td [(1.3)-1275(Exercises)-225(3)]TJ
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
 /F47 14.3462 Tf 0 -26.202 Td [(method)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(Example1\050\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515({)]TJ
+ [-664(Example1\050\051)-365({)]TJ
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  14.765 -16.937 Td [(var)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(x)]TJ
+ [-665(x)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
  [1(:)]TJ
 0 g 0 G
 0.69 0.00 0.25 rg 0.69 0.00 0.25 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(Int)]TJ
+ [-365(Int)]TJ
 0 g 0 G
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  0 -16.936 Td [(var)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(y)]TJ
+ [-665(y)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
  [1(:)]TJ
 0 g 0 G
 0.69 0.00 0.25 rg 0.69 0.00 0.25 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(Int)]TJ
+ [-365(Int)]TJ
 0 g 0 G
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  0 -33.873 Td [(assume)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(x)]TJ
+ [-664(x)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
+ [-365(==)]TJ
 0 g 0 G
-[-515(==)]TJ
-0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(y)]TJ 0 -16.937 Td [(x)]TJ
+ [-665(y)]TJ 0 -16.937 Td [(x)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
+ [-665(:=)]TJ
 0 g 0 G
-[-515(:=)]TJ
-0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(y)]TJ
+ [-364(y)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(+)]TJ
+ [-665(+)]TJ
 0 g 0 G
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(1)]TJ
+ [-364(1)]TJ
 0 g 0 G
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  0 -16.936 Td [(assert)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(x)]TJ
+ [-664(x)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
+ [-365(>)]TJ
 0 g 0 G
-[-515(>)]TJ
-0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(y)]TJ -14.765 -16.937 Td [(})]TJ/F37 14.3462 Tf 21.071 -31.346 Td [(In)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(this)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(example,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-320(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(program)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-318(assumes)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(y)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(are)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-318(equal,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-321(assigns)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-318(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(v)54(alue)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(y)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-318(+)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-319(1,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-321(and)]TJ -21.071 -16.936 Td [(asserts)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(greater)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(than)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(y)82(.)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-436(T)1(he)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(program)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(functional,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(partial)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(total)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(correct.)]TJ
+ [-665(y)]TJ -14.765 -16.937 Td [(})]TJ/F37 14.3462 Tf 21.071 -31.346 Td [(In)-469(this)-169(example,)-470(the)-169(program)-468(assumes)-169(that)-469(x)-169(and)-469(y)-169(are)-468(equal,)-171(assigns)-469(x)-168(the)-469(v)54(alue)-169(y)-468(+)-169(1,)-471(and)]TJ -21.071 -16.936 Td [(asserts)-476(that)-177(x)-476(is)-176(greater)-477(than)-176(y)82(.)-586(T)1(he)-177(program)-476(is)-176(functional,)-477(partial)-176(and)-476(total)-176(correct.)]TJ
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
 /F47 14.3462 Tf 0 -31.346 Td [(method)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(Example2\050\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515({)]TJ
+ [-664(Example2\050\051)-365({)]TJ
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  14.765 -16.937 Td [(var)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(x)]TJ
+ [-665(x)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
  [1(:)]TJ
 0 g 0 G
 0.69 0.00 0.25 rg 0.69 0.00 0.25 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(Int)]TJ
+ [-365(Int)]TJ
 0 g 0 G
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  0 -16.936 Td [(assert)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(x)]TJ
+ [-664(x)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(>)]TJ
+ [-365(>)]TJ
 0 g 0 G
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
+ [-665(0)]TJ
 0 g 0 G
-[-515(0)]TJ
-0 g 0 G
- -14.765 -16.937 Td [(})]TJ/F37 14.3462 Tf 21.071 -31.346 Td [(In)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(this)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-422(example,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-447(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(program)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-422(asserts)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-422(greater)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(than)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(0.)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-724(The)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(progra)1(m)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-423(functional)]TJ -21.071 -16.936 Td [(correct,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(but)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(not)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(partial)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(total)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(correct.)]TJ
+ -14.765 -16.937 Td [(})]TJ/F37 14.3462 Tf 21.071 -31.346 Td [(In)-573(this)-272(example,)-597(the)-273(program)-572(asserts)-273(that)-573(x)-273(is)-572(greater)-273(than)-573(0.)-574(The)-573(progra)1(m)-273(is)-573(functional)]TJ -21.071 -16.936 Td [(correct,)-476(but)-177(not)-476(partial)-176(and)-476(total)-177(correct.)]TJ
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
 /F47 14.3462 Tf 0 -31.346 Td [(method)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(Example3\050\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515({)]TJ
+ [-664(Example3\050\051)-365({)]TJ
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  14.765 -16.937 Td [(var)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(x)]TJ
+ [-665(x)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
  [1(:)]TJ
 0 g 0 G
 0.69 0.00 0.25 rg 0.69 0.00 0.25 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(Int)]TJ
+ [-365(Int)]TJ
 0 g 0 G
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  0 -33.872 Td [(while)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(\050)]TJ
+ [-664(\050)]TJ
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  [(true)]TJ
 0 g 0 G
- [(\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515({)]TJ
+ [(\051)-365({)]TJ
 0 g 0 G
 /F37 14.3462 Tf 276.383 -29.888 Td [(2)]TJ
 0 g 0 G
@@ -2512,7 +892,7 @@ endobj
 endobj
 47 0 obj
 <<
-/Length 7072
+/Length 3170
 >>
 stream
 0 g 0 G
@@ -2520,423 +900,23 @@ stream
 BT
 /F47 14.3462 Tf 155.814 1033.736 Td [(x)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(:=)]TJ
+ [-665(:=)]TJ
 0 g 0 G
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(1)]TJ
+ [-364(1)]TJ
 0 g 0 G
  -14.765 -16.937 Td [(})]TJ
 0.00 0.50 0.00 rg 0.00 0.50 0.00 RG
  0 -16.936 Td [(assert)]TJ
 0 g 0 G
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-515(x)]TJ
+ [-665(x)]TJ
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-514(==)]TJ
+ [-364(==)]TJ
 0 g 0 G
 0.40 0.40 0.40 rg 0.40 0.40 0.40 RG
- []TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
+ [-665(0)]TJ
 0 g 0 G
-[-515(0)]TJ
-0 g 0 G
- -14.764 -16.937 Td [(})]TJ/F37 14.3462 Tf 21.07 -32.876 Td [(In)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-284(this)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-283(example,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-292(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-284(program)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-283(starts)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-284(with)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-283(an)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-284(while)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-283(lo)-27(op,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-292(\014nally)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-284(asserts)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-283(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-284(x)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-283(equals)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-284(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-283(0.)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-421(The)]TJ -21.07 -16.937 Td [(program)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(funct)1(ional)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(partial)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(correct,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(but)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(not)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(total)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(co)1(rrect.)]TJ 21.07 -16.936 Td [(Example)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-431(1)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-432(and)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-431(3)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-432(pass)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-431(Vip)-27(er)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-432(v)27(eri\014cation,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-457(while)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-432(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-431(second)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-432(one)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-431(failed,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-458(whic)28(h)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-432(means)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-431(Vip)-27(er)]TJ -21.07 -16.937 Td [(v)27(eri\014es)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(programs)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(with)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(resp)-27(ect)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(partial)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(correct.)]TJ/F39 17.2154 Tf 0 -41.992 Td [(1.4)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-1125(Exercises)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-375(4)]TJ/F37 14.3462 Tf 0 -26.202 Td [(No)27(w,)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(w)27(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(can)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(de\014n)1(e)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(safe)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(tr)1(ansformer)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(as)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(follo)27(ws)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(if)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(our)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(command)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(con)27(tains)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(assert)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(F:)]TJ 21.07 -16.936 Td [(safe[)]TJ/F42 14.3462 Tf 27.002 0 Td [(C)]TJ/F37 14.3462 Tf 11.081 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.364 0 Td [(F)]TJ/F37 14.3462 Tf 11.045 0 Td [(\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(=)]TJ/F50 14.3462 Tf 25.753 0 Td [(sp)]TJ/F37 14.3462 Tf 12.591 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.365 0 Td [(saf)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-107(e)]TJ/F37 14.3462 Tf 28.957 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(]\050)]TJ/F42 14.3462 Tf 9.365 0 Td [(F)]TJ/F37 14.3462 Tf 11.044 0 Td [(\051\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(where)]TJ/F42 14.3462 Tf 56.189 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.92 -5.206 Td [(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(remaining)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(p)-27(ortion)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(of)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-327(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(command)]TJ -263.957 -16.937 Td [(if)]TJ/F42 14.3462 Tf 12.876 0 Td [(C)]TJ/F37 14.3462 Tf 15.763 0 Td [(=)]TJ/F42 14.3462 Tf 15.608 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(1;)]TJ/F42 14.3462 Tf 10.926 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(2;)]TJ/F42 14.3462 Tf 10.926 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(3...)]TJ -99.339 -16.936 Td [(The)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(k)28(ey)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(idea)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(is)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(r)1(ecursiv)27(ely)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(apply)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-330(strongest)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(p)-27(ostcondition)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(transformer)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-330(to)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(calculate)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-331(the)]TJ -21.071 -16.937 Td [(logical)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-454(form)27(ula)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-454(safe[)]TJ/F42 14.3462 Tf 125.879 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.365 0 Td [(F)]TJ/F37 14.3462 Tf 11.044 0 Td [(\051)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-454(that)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-454(represen)27(ts)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-454(the)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-455(saf)1(et)27(y)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-454(condition)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-455(for)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-454(running)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-454(command)]TJ/F42 14.3462 Tf 387.041 0 Td [(C)]TJ/F37 14.3462 Tf 17.597 0 Td [(with)]TJ -562.006 -16.936 Td [(precondition)]TJ
-1 0 0 rg 1 0 0 RG
-[(I)]TJ
-0 g 0 G
-[-326(F.)]TJ
+ -14.764 -16.937 Td [(})]TJ/F37 14.3462 Tf 21.07 -32.876 Td [(In)-434(this)-133(example,)-442(the)-134(program)-433(starts)-134(with)-433(an)-134(while)-433(lo)-27(op,)-142(\014nally)-434(asserts)-133(that)-434(x)-133(equals)-434(to)-133(0.)-571(The)]TJ -21.07 -16.937 Td [(program)-476(is)-177(funct)1(ional)-477(and)-176(partial)-476(correct,)-177(but)-476(not)-176(total)-477(co)1(rrect.)]TJ 21.07 -16.936 Td [(Example)-581(1)-282(and)-581(3)-282(pass)-581(Vip)-27(er)-282(v)27(eri\014cation,)-607(while)-282(the)-581(second)-282(one)-581(failed,)-308(whic)28(h)-582(means)-281(Vip)-27(er)]TJ -21.07 -16.937 Td [(v)27(eri\014es)-476(programs)-176(with)-477(resp)-27(ect)-176(to)-476(partial)-177(correct.)]TJ/F39 17.2154 Tf 0 -41.992 Td [(1.4)-1275(Exercises)-225(4)]TJ/F37 14.3462 Tf 0 -26.202 Td [(No)27(w,)-476(w)27(e)-176(can)-477(de\014n)1(e)-177(the)-476(safe)-177(tr)1(ansformer)-477(as)-176(follo)27(ws)-476(if)-177(our)-476(command)-176(con)27(tains)-476(assert)-176(F:)]TJ 21.07 -16.936 Td [(safe[)]TJ/F42 14.3462 Tf 27.002 0 Td [(C)]TJ/F37 14.3462 Tf 11.081 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.364 0 Td [(F)]TJ/F37 14.3462 Tf 11.045 0 Td [(\051)-476(=)]TJ/F50 14.3462 Tf 25.753 0 Td [(sp)]TJ/F37 14.3462 Tf 12.591 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.365 0 Td [(saf)43(e)]TJ/F37 14.3462 Tf 28.957 0 Td [([)]TJ/F42 14.3462 Tf 3.902 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 3.238 -5.206 Td [(]\050)]TJ/F42 14.3462 Tf 9.365 0 Td [(F)]TJ/F37 14.3462 Tf 11.044 0 Td [(\051\051)-476(where)]TJ/F42 14.3462 Tf 56.189 0 Td [(C)]TJ/F43 9.9626 Tf 11.08 5.206 Td [(0)]TJ/F37 14.3462 Tf 7.92 -5.206 Td [(is)-176(the)-477(remaining)-176(p)-27(ortion)-476(of)-177(the)-476(command)]TJ -263.957 -16.937 Td [(if)]TJ/F42 14.3462 Tf 12.876 0 Td [(C)]TJ/F37 14.3462 Tf 15.763 0 Td [(=)]TJ/F42 14.3462 Tf 15.608 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(1;)]TJ/F42 14.3462 Tf 10.926 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(2;)]TJ/F42 14.3462 Tf 10.926 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(3...)]TJ -99.339 -16.936 Td [(The)-481(k)28(ey)-181(idea)-481(is)-181(to)-481(r)1(ecursiv)27(ely)-181(apply)-481(the)-180(strongest)-481(p)-27(ostcondition)-181(transformer)-480(to)-181(calculate)-481(the)]TJ -21.071 -16.937 Td [(logical)-604(form)27(ula)-304(safe[)]TJ/F42 14.3462 Tf 125.879 0 Td [(C)]TJ/F37 14.3462 Tf 11.08 0 Td [(]\050)]TJ/F42 14.3462 Tf 9.365 0 Td [(F)]TJ/F37 14.3462 Tf 11.044 0 Td [(\051)-604(that)-304(represen)27(ts)-604(the)-305(saf)1(et)27(y)-604(condition)-305(for)-604(running)-304(command)]TJ/F42 14.3462 Tf 387.041 0 Td [(C)]TJ/F37 14.3462 Tf 17.597 0 Td [(with)]TJ -562.006 -16.936 Td [(precondition)-476(F.)]TJ
 0 g 0 G
  291.148 -561.951 Td [(3)]TJ
 0 g 0 G
@@ -2964,49 +944,49 @@ xref
 0000000128 00000 n 
 0000000177 00000 n 
 0000000291 00000 n 
-0000021408 00000 n 
-0000021548 00000 n 
-0000021704 00000 n 
-0000022300 00000 n 
-0000039733 00000 n 
-0000040546 00000 n 
-0000041147 00000 n 
-0000041306 00000 n 
-0000041634 00000 n 
-0000052008 00000 n 
-0000052823 00000 n 
-0000053267 00000 n 
-0000053426 00000 n 
-0000053697 00000 n 
-0000063535 00000 n 
-0000064304 00000 n 
-0000064666 00000 n 
-0000064825 00000 n 
-0000065166 00000 n 
-0000073411 00000 n 
-0000074384 00000 n 
-0000074817 00000 n 
-0000074996 00000 n 
-0000075063 00000 n 
-0000075287 00000 n 
-0000080051 00000 n 
-0000080844 00000 n 
-0000080870 00000 n 
-0000081029 00000 n 
-0000081480 00000 n 
-0000088445 00000 n 
-0000089190 00000 n 
-0000089726 00000 n 
-0000089886 00000 n 
-0000090118 00000 n 
-0000097418 00000 n 
-0000098232 00000 n 
-0000098300 00000 n 
-0000098417 00000 n 
-0000117328 00000 n 
-0000117457 00000 n 
-0000117574 00000 n 
-0000124699 00000 n 
+0000013413 00000 n 
+0000013553 00000 n 
+0000013709 00000 n 
+0000014305 00000 n 
+0000031738 00000 n 
+0000032551 00000 n 
+0000033152 00000 n 
+0000033311 00000 n 
+0000033639 00000 n 
+0000044013 00000 n 
+0000044828 00000 n 
+0000045272 00000 n 
+0000045431 00000 n 
+0000045702 00000 n 
+0000055540 00000 n 
+0000056309 00000 n 
+0000056671 00000 n 
+0000056830 00000 n 
+0000057171 00000 n 
+0000065416 00000 n 
+0000066389 00000 n 
+0000066822 00000 n 
+0000067001 00000 n 
+0000067068 00000 n 
+0000067292 00000 n 
+0000072056 00000 n 
+0000072849 00000 n 
+0000072875 00000 n 
+0000073034 00000 n 
+0000073485 00000 n 
+0000080450 00000 n 
+0000081195 00000 n 
+0000081731 00000 n 
+0000081891 00000 n 
+0000082123 00000 n 
+0000089423 00000 n 
+0000090237 00000 n 
+0000090305 00000 n 
+0000090422 00000 n 
+0000101518 00000 n 
+0000101647 00000 n 
+0000101764 00000 n 
+0000104987 00000 n 
 trailer
 <<
 /Size 49
@@ -3014,5 +994,5 @@ trailer
 /Info 2 0 R
 >>
 startxref
-124828
+105116
 %%EOF

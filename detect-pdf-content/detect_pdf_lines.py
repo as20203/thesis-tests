@@ -3,19 +3,23 @@
 def detectPdfLines(pdf_content):
     count = 0
     lines_coordinates = []
+    prev_td = None
     for index, item in enumerate(pdf_content):
         if "Td" in item:
             text_position = item.split(' ')
             td_position = text_position.index('Td')
             x_coordinate = td_position - 2
             y_coordinate = td_position - 1
-            if text_position[y_coordinate] != '0':
+            y_position = float(text_position[y_coordinate])
+            if  prev_td is None or (y_position < 0 and -prev_td !=y_position):
                 if len(lines_coordinates) > 0 and lines_coordinates[-1]:
                     lines_coordinates[-1]['content'] = pdf_content[lines_coordinates[-1]['index']+1:index]
                 lines_coordinates.append({"line-no": 'line-'+str(count+1) ,"x": text_position[x_coordinate], "y": text_position[y_coordinate], "index":index, 'line-adjustment': item})
                 if len(lines_coordinates) == 1:
                     lines_coordinates[0]['line-adjustment'] = pdf_content[0:index + 1]
                 count+= 1
+            prev_td = y_position
+
     if (len(lines_coordinates) > 0):         
         lines_coordinates[-1]['content'] = pdf_content[lines_coordinates[-1]['index']+1:len(pdf_content)]
     return lines_coordinates
