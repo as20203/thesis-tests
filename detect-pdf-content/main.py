@@ -8,6 +8,7 @@ import detect_pdf_lines, word_spacing, modifed_pdf_lines
 import random
 
 def generate_random_bit_sequence(length):
+    random.seed(12345)
     return ''.join(random.choice('01') for _ in range(length))
 
 def replace_text(content, transformed_input_output, encoded_bit_sequence):

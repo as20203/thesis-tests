@@ -51,13 +51,21 @@ def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = ''):
     updated_content = line_text.copy()
     bit_list_index = 0
     index = 0
-    # space_count = count_negative_space_indices(updated_content)
-    # print('Space count: ', space_count)
+    space_count = count_negative_space_indices(updated_content)
+    print('Space count: ', space_count)
 
-    # ones_count, zeros_count = count_bits(encoded_bit_sequence[:space_count])
+    ones_count, zeros_count = count_bits(encoded_bit_sequence[:space_count])
     # print(ones_count, zeros_count)
     bit_list = list(encoded_bit_sequence)
-    # count_difference = abs(ones_count-zeros_count)
+    line_length_change = (ones_count-zeros_count) * space_value
+    one_space_value = space_value
+    zeros_space_value = space_value
+
+    if line_length_change > 0:
+        one_space_value -= line_length_change/ones_count
+    if line_length_change < 0:
+        zeros_space_value -= line_length_change/zeros_count
+    
     # is_ones_greater = False
     # if ones_count >= zeros_count:
     #     is_ones_greater = True
@@ -85,6 +93,7 @@ def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = ''):
             ## used -50
             ## Space between characters is usually positive
             ## if negative it represents kerning and the value is usually quite low.
+            ## fix this so that this is fixed.
             if space < 0 and space < -50:
                 bit = bit_list[bit_list_index]
                 print('bit: ', bit)
@@ -96,7 +105,7 @@ def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = ''):
                 #     space -= space_value
                 if bit  == "1":
                     print('its 1')
-                    space -= space_value
+                    space -= one_space_value
                     # if is_ones_greater:
                     #     space += space_value
                     #     spaces_difference += space_value
@@ -106,7 +115,7 @@ def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = ''):
                     #     count_difference -= 1
                 else:
                     print('its 0')
-                    space += space_value
+                    space += zeros_space_value
                     # if not(is_ones_greater):
                     #     space -= space_value
                     #     spaces_difference -= space_value

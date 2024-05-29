@@ -1,52 +1,48 @@
 import cv2
 import pytesseract
-from PIL import Image, ImageEnhance
-import numpy as np
+import re
 
 def preprocess_image(image_path):
-    # Read the image using OpenCV
     image = cv2.imread(image_path)
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    # binary = cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)
+    _,image = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY)
 
-    # Convert to grayscale
-    gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    # kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, 1))
+    # binary = cv2.morphologyEx(binary, cv2.MORPH_CLOSE, kernel)
+    # binary = cv2.medianBlur(binary, 3)
+    
+    # coords = cv2.findNonZero(binary)
+    # angle = cv2.minAreaRect(coords)[-1]
+    # if angle < -45:
+    #     angle = -(90 + angle)
+    # else:
+    #     angle = -angle
+    
+    # (h, w) = binary.shape[:2]
+    # center = (w // 2, h // 2)
+    # M = cv2.getRotationMatrix2D(center, angle, 1.0)
+    # rotated = cv2.warpAffine(binary, M, (w, h), flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
+    
+    return image
 
-    # Apply sharpening filter
-    kernel = np.array([[0, -1, 0], 
-                       [-1, 5,-1], 
-                       [0, -1, 0]])
-    sharpened_image = cv2.filter2D(gray_image, -1, kernel)
+def extract_text(image):
+    custom_config = r'--oem 3 --psm 6'
+    text = pytesseract.image_to_string(image, config=custom_config)
+    text = re.sub(r'[^a-zA-Z0-9\s]', '', text)
+    return text
 
-    # Apply adaptive thresholding to get a binary image
-    binary_image = cv2.adaptiveThreshold(sharpened_image, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)
+def correct_text(text, sym_spell):
+    suggestions = sym_spell.lookup_compound(text, max_edit_distance=2)
+    return suggestions[0].term if suggestions else text
 
-    # Invert the image to get black text on white background
-    inverted_image = cv2.bitwise_not(binary_image)
+if __name__ == "__main__":
+    image_path = 'loren-ipsum/loren_ipsum_text_thesis.result.copy-0.jpg'
+    # image_path = 'loren-ipsum/loren_ipsum_text_thesis.jpg'
 
-    # Apply morphological operations
-    kernel = np.ones((1, 1), np.uint8)
-    processed_image = cv2.morphologyEx(inverted_image, cv2.MORPH_CLOSE, kernel)
-
-    # Save the processed image for debugging (optional)
-    cv2.imwrite("processed_image.png", processed_image)
-
-    return processed_image
-
-# Path to the image
-image_path = 'loren-ipsum/loren_ipsum_scan.jpg'
-
-# Preprocess the image
-preprocessed_image = preprocess_image(image_path)
-
-# Convert the OpenCV image to PIL format
-pil_image = Image.fromarray(preprocessed_image)
-
-# Enhance the image contrast
-enhancer = ImageEnhance.Contrast(pil_image)
-enhanced_image = enhancer.enhance(2)
-
-# Use pytesseract to do OCR on the preprocessed image
-custom_config = r'--oem 3 --psm 6'
-text = pytesseract.image_to_string(enhanced_image, config=custom_config)
-
-# Print the extracted text
-print(text)
+    preprocessed_image = preprocess_image(image_path)
+    raw_text = extract_text(preprocessed_image)
+    print(raw_text)
+    
+   
+    

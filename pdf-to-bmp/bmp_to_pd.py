@@ -5,8 +5,8 @@ import pandas as pd
 import numpy as np
 
 
-filename = 'loren-ipsum/loren_ipsum_text_thesis.result'
-pages = convert_from_path(f"{filename}.pdf")
+filename = 'loren-ipsum/loren_ipsum_text_thesis'
+pages = convert_from_path(f"{filename}.pdf", dpi='350',grayscale=True, fmt='bmp')
 
 # image = cv2.imread(filename)
 # Increase the DPI by resizing
@@ -36,10 +36,10 @@ def detect_word_space(previous_word, current_word):
 
 #iterate through every page
 for i, page in enumerate(pages):
-    
+    cv2.imwrite(f"{filename}-{i}.bmp", np.array(page))
     #Convert the image to grayscale and apply thresholding
-    image = cv2.cvtColor(np.array(page), cv2.COLOR_RGB2GRAY)
-    _, image = cv2.threshold(image, 127, 255, cv2.THRESH_BINARY)
+    # image = cv2.cvtColor(np.array(page), cv2.COLOR_RGB2GRAY)
+    _, image = cv2.threshold(np.array(page), 127, 255, cv2.THRESH_BINARY)
     
     #perform OCR on image using pytesseract. The --psm 6 flag tells pytesseract to do it line by line
     data = pytesseract.image_to_data(image,config='--oem 3 --psm 6', output_type='dict')
