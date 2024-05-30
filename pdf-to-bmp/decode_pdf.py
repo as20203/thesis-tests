@@ -20,6 +20,20 @@ def detect_word_space(previous_word, current_word):
     return None
 
 
+## returns longest line in a page
+def get_max_width_line(page_par_line_dict = {}):
+    longest_line_width = None
+    line_information = None
+    for entry in page_par_line_dict:
+        line = page_par_line_dict[entry]['box']
+        line_width = abs(line[2] - line[0])
+
+        if longest_line_width is None or line_width > longest_line_width:
+            longest_line_width = line_width
+            line_information = entry
+    return longest_line_width, line_information
+
+
 
 def get_pdf_lines(filename):
     pdf_lines = []
@@ -67,6 +81,9 @@ def get_pdf_lines(filename):
             prev_word = row
 
         
+
+        longest_line_width, _ = get_max_width_line(page_par_line_dict)
+        scaling_factor = 1000
         #draw bounding boxes for the lines detected in that image
         with open(filename + '.txt', 'w') as file:
             for entry in page_par_line_dict:
@@ -80,7 +97,7 @@ def get_pdf_lines(filename):
                             }
                 for key in line.keys():
                     if key.startswith('space'):
-                        width = abs(line[key][2] -  line[key][0])
+                        width = abs(line[key][2] -  line[key][0])/longest_line_width * scaling_factor
                         file.write(str(f"key: {key}, value: {line[key]}, width: {width}" + '\n'))
                         pdf_line['words'].append({
                             'key': f"{key}_{space_counter}",
