@@ -1,5 +1,4 @@
 import os
-import argparse
 import encode_pdf
 from datetime import datetime
 import decode_pdf
@@ -97,6 +96,7 @@ if __name__ == "__main__":
     pdf_files = list_pdf_files(in_file)
 
     ## Read all files in a folder
+    combined_pdf_error_rate = 0
     for pdf_file in pdf_files:
         encoded_bit_sequence = generate_random_bit_sequence(sequence_length)
         input_filename = pdf_file.replace(os.path.splitext(pdf_file)[1], "")
@@ -112,4 +112,7 @@ if __name__ == "__main__":
         modified_pdf = decode_pdf.get_pdf_lines(scanned_filename, output_file_path, encoded_bit_sequence)
         result = decode_pdf.get_decoded_text(original_pdf, modified_pdf)
 
-        result_strings = decode_pdf.get_decoded_text_substring(encoded_bit_sequence,result)
+        pdf_error_rate = decode_pdf.get_decoded_text_substring(encoded_bit_sequence,result)
+        combined_pdf_error_rate += pdf_error_rate
+    
+    print('Combined pdf error rate : ', combined_pdf_error_rate/len(pdf_files))
