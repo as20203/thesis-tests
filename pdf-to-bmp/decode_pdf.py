@@ -3,7 +3,6 @@ from pdf2image import convert_from_path
 import cv2
 import pandas as pd
 import numpy as np
-from PIL import Image
 
 
 
@@ -43,6 +42,7 @@ def get_pdf_lines(filename):
         # cv2.imwrite(f"{page}-{i}.jpg", np.array(page))
         #Convert the image to grayscale and apply thresholding
         # image = cv2.cvtColor(np.array(page), cv2.COLOR_RGB2GRAY)
+        ## To-Do: check if image is grayscale or not here.
         _, image = cv2.threshold(np.array(page), 127, 255, cv2.THRESH_BINARY)
         
         #perform OCR on image using pytesseract. The --psm 6 flag tells pytesseract to do it line by line
@@ -150,6 +150,7 @@ def check_decoded_string(original_bit_string, decoded_string):
     decoded_bit_index = 0
     correction = ''
     if start != -1:
+        ## if the index of decoded string is less than the start index.
         for index in range(len(original_bit_string)):
             if (index < start):
                 correction += 'x'
@@ -185,7 +186,7 @@ def get_decoded_text_substring(original_bit_string, decoded_pdf_lines):
             
 
 
-    
+## To-do fix this original bit string.
 original_bitstring = '1011011010110010100000110110100001010010100010011000100011011000101001001001110100010100001000001001'
 filenames = ['loren-ipsum/loren_ipsum_text_thesis','loren-ipsum/loren_ipsum_text_thesis.result.50']
 original_pdf = get_pdf_lines(filenames[0])

@@ -1,0 +1,4 @@
+input=input-pdfs/
+baseFoldername=output
+sequenceLength=100
+threshold=150
