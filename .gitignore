@@ -1,2 +1,6 @@
 output*/
 __pycache__/
+**/input*/**/*.jpg
+**/input*/**/*.bmp
+**/input*/**/*.txt
+

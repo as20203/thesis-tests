@@ -2,7 +2,7 @@ import os
 import encode_pdf
 from datetime import datetime
 import decode_pdf
-
+import Levenshtein
 import random
 
 def generate_random_bit_sequence(length):
@@ -76,6 +76,9 @@ def read_parameters(file_path):
 
 
 
+def compute_edit_distance(str1, str2):
+    return Levenshtein.distance(str1, str2)
+
 
 
 if __name__ == "__main__":
@@ -99,6 +102,7 @@ if __name__ == "__main__":
     combined_pdf_error_rate = 0
     for pdf_file in pdf_files:
         encoded_bit_sequence = generate_random_bit_sequence(sequence_length)
+        print(encoded_bit_sequence)
         input_filename = pdf_file.replace(os.path.splitext(pdf_file)[1], "")
         output_filename = f"{current_time}_{input_filename}"
         filename_base = in_file + input_filename + '.pdf'
@@ -110,9 +114,15 @@ if __name__ == "__main__":
         ## Decode the pdf
         original_pdf = decode_pdf.get_pdf_lines(in_file + input_filename, output_file_path)
         modified_pdf = decode_pdf.get_pdf_lines(scanned_filename, output_file_path, encoded_bit_sequence)
-        result = decode_pdf.get_decoded_text(original_pdf, modified_pdf)
+        print(modified_pdf)
+        result,  decoded_string = decode_pdf.get_decoded_text(original_pdf, modified_pdf, len(encoded_bit_sequence))
 
-        pdf_error_rate = decode_pdf.get_decoded_text_substring(encoded_bit_sequence,result)
-        combined_pdf_error_rate += pdf_error_rate
+        # pdf_error_rate = decode_pdf.get_decoded_text_substring(encoded_bit_sequence,result)
+        ## compute edit distance
+        levenshtein_distance = compute_edit_distance(encoded_bit_sequence, decoded_string)
+        print('Encoded String: ', encoded_bit_sequence)
+        print('Decoded String: ', decoded_string)
+        print(levenshtein_distance)
+        # combined_pdf_error_rate += pdf_error_rate
     
-    print('Combined pdf error rate : ', combined_pdf_error_rate/len(pdf_files))
+    # print('Combined pdf error rate : ', combined_pdf_error_rate/len(pdf_files))

@@ -132,8 +132,9 @@ def get_pdf_lines(filename, output_file_path, encoded_bit_sequence=''):
 
 
 
-def get_decoded_text(original_pdf = [], modified_pdf = []):
+def get_decoded_text(original_pdf = [], modified_pdf = [], encoded_sequence_length = 0):
     decoded_pdf_lines = []
+    decoded_string = ''
     for index, _ in enumerate(modified_pdf):
         ## add out of bounds error detection logic here.
         if index < len(modified_pdf) and index < len(original_pdf):
@@ -146,12 +147,13 @@ def get_decoded_text(original_pdf = [], modified_pdf = []):
             if (original_line_number == modified_line_number):
                 original_line_word_spaces = original_line['words']
                 modified_word_spaces = modified_line['words']
-                decoded_string = ''
                 for index, _ in enumerate(modified_word_spaces):
                     modifed_word_space = modified_word_spaces[index]
+                    ## To-do in case keys don't match increase index by 2 else by 1 for better comparison of words.
                     original_word_space = original_line_word_spaces[index] if index < len(original_line_word_spaces) else None
                     ## check if the key for the word in the line is same
-                    if (original_word_space is not None and original_word_space['key'] == modifed_word_space['key']):
+                    print('original key: ', original_word_space['key'],  'modified key: ', modifed_word_space['key'])
+                    if (original_word_space is not None):
                         modified_word_space_width = modifed_word_space['width']
                         original_word_space_width = original_word_space['width']
                         ## Check if its a 1 or 0.
@@ -160,11 +162,12 @@ def get_decoded_text(original_pdf = [], modified_pdf = []):
                         elif (modified_word_space_width < original_word_space_width):
                             decoded_string+= '0'
                         else:
-                            decoded_string+= 'x'
+                            if len(decoded_string) != encoded_sequence_length:
+                                decoded_string+= 'x'
 
             ## Decoded line in each string
             decoded_pdf_lines.append({ 'line_number': modified_line_number, 'decoded_string': decoded_string})
-    return decoded_pdf_lines
+    return decoded_pdf_lines, decoded_string
 
 def check_decoded_string(original_bit_string, decoded_string):
     # start_index = 0
@@ -173,7 +176,8 @@ def check_decoded_string(original_bit_string, decoded_string):
     correction = ''
     incorrect_bits_count = 0
     for i in range(len(decoded_string)):
-        if decoded_string[i] != original_bit_string[i]:
+        validation_original_bit_string = original_bit_string[i] if i < len(original_bit_string) else None
+        if decoded_string[i] != validation_original_bit_string:
             correction+='x'
             incorrect_bits_count+=1
         else:

@@ -1,4 +1,4 @@
-input=input-pdfs-applied-mathematics/
+input=input-pdfs-test/
 baseFoldername=output
 sequenceLength=100
-threshold=150
+threshold=50

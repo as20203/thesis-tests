@@ -47,9 +47,8 @@ def modify_last_word(content):
 
 
 
-def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = ''):
+def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = '', bit_list_index = 0):
     updated_content = line_text.copy()
-    bit_list_index = 0
     index = 0
     space_count = count_negative_space_indices(updated_content)
     # print('Space count: ', space_count)
@@ -95,7 +94,7 @@ def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = ''):
             ## if negative it represents kerning and the value is usually quite low.
             ## fix this so that this is fixed.
             if space < 0 and space < -50:
-                bit = bit_list[bit_list_index]
+                bit = bit_list[bit_list_index] if bit_list_index < len(bit_list) else None
 
                 # space_count+=1
                 # if space_count % 2 == 0:
@@ -111,7 +110,9 @@ def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = ''):
                     #     space += (space_value * 2)
                     #     spaces_difference  += (space_value * 2)
                     #     count_difference -= 1
-                else:
+                    bit_list_index += 1
+
+                elif bit == "0":
                     space += zeros_space_value
                     # if not(is_ones_greater):
                     #     space -= space_value
@@ -120,19 +121,19 @@ def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = ''):
                     #     space -= (space_value * 2)
                     #     spaces_difference -= (space_value * 2)
                     #     count_difference -= 1
-                bit_list_index += 1
+                    bit_list_index += 1
                 # space_count+=1
                 updated_content[index] = 's:{}'.format(space)
                 # updated_content[index:index] = space_separator
                 # index += len(space_separator)
         index += 1
 
-    return updated_content
+    return updated_content, bit_list_index
 
 
            
 
-def modified_pdf_lines(pdf_lines, encoded_bit_sequence = '', threshold = 50):
+def modified_pdf_lines(pdf_lines, encoded_bit_sequence = '', threshold = 50, bit_list_index = 0):
     updated_pdf_lines = []
     pdf_line = ''
     for item in pdf_lines:
@@ -154,8 +155,8 @@ def modified_pdf_lines(pdf_lines, encoded_bit_sequence = '', threshold = 50):
             ## modify spaces or change words etc.
             ## ToDo write code that will now modify the words and spaces.
             # modified_content = modify_last_word(content_text)
-            modified_content = modify_line_spaces(line_text, threshold, encoded_bit_sequence)
-
+            modified_content, updated_bit_list_index = modify_line_spaces(line_text, threshold, encoded_bit_sequence, bit_list_index)
+            bit_list_index = updated_bit_list_index
 
             ## join content as updated result.
             
@@ -172,7 +173,7 @@ def modified_pdf_lines(pdf_lines, encoded_bit_sequence = '', threshold = 50):
                     pdf_line += item
                 
                 # updated_pdf_lines.append(item)
-    return updated_pdf_lines
+    return updated_pdf_lines, bit_list_index
 
 
     
