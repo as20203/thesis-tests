@@ -94,7 +94,9 @@ def modify_line_spaces(line_text, space_value = 0, encoded_bit_sequence = '', bi
             ## if negative it represents kerning and the value is usually quite low.
             ## fix this so that this is fixed.
             if space < 0 and space < -50:
-                bit = bit_list[bit_list_index] if bit_list_index < len(bit_list) else None
+                if (bit_list_index >= len(bit_list)):
+                    bit_list_index = 0
+                bit = bit_list[bit_list_index]
 
                 # space_count+=1
                 # if space_count % 2 == 0:

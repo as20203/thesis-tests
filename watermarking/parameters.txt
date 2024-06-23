@@ -1,4 +1,4 @@
-input=input-pdfs-test/
+input=input_pdfs-test/
 baseFoldername=output
 sequenceLength=100
 threshold=50

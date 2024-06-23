@@ -115,14 +115,17 @@ if __name__ == "__main__":
         original_pdf = decode_pdf.get_pdf_lines(in_file + input_filename, output_file_path)
         modified_pdf = decode_pdf.get_pdf_lines(scanned_filename, output_file_path, encoded_bit_sequence)
         print(modified_pdf)
-        result,  decoded_string = decode_pdf.get_decoded_text(original_pdf, modified_pdf, len(encoded_bit_sequence))
-
+        decoded_string = decode_pdf.get_decoded_text(original_pdf, modified_pdf, len(encoded_bit_sequence))
+        print('decoded string lines', decoded_string, len(decoded_string))
+        decoded_string_list = decode_pdf.check_decoded_string(encoded_bit_sequence, decoded_string)
         # pdf_error_rate = decode_pdf.get_decoded_text_substring(encoded_bit_sequence,result)
         ## compute edit distance
-        levenshtein_distance = compute_edit_distance(encoded_bit_sequence, decoded_string)
-        print('Encoded String: ', encoded_bit_sequence)
-        print('Decoded String: ', decoded_string)
-        print(levenshtein_distance)
+        print('Decoded string list', decoded_string_list)
+        for decoded_bit_sequence in decoded_string_list:
+            levenshtein_distance = compute_edit_distance(encoded_bit_sequence, decoded_bit_sequence)
+            print('Encoded String: ', encoded_bit_sequence)
+            print('Decoded String: ', decoded_bit_sequence)
+            print(levenshtein_distance)
         # combined_pdf_error_rate += pdf_error_rate
     
     # print('Combined pdf error rate : ', combined_pdf_error_rate/len(pdf_files))

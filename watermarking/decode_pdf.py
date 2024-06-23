@@ -3,6 +3,7 @@ from pdf2image import convert_from_path
 import cv2
 import pandas as pd
 import numpy as np
+import platform
 
 def detect_word_space(previous_word, current_word):
     # previous_word = data_frame.iloc[index - 1]
@@ -35,11 +36,16 @@ def get_max_width_line(page_par_line_dict = {}):
 def get_pdf_lines(filename, output_file_path, encoded_bit_sequence=''):
     is_modified_image = True if encoded_bit_sequence != '' else False
     master_ocr_image = ""
-
+    pages = None
     pdf_lines = []
-    poppler_path = "C:\\Program Files\\poppler-23.11.0\\Library\\" + "bin"
-    print(poppler_path)
-    pages = convert_from_path(f"{filename}.pdf", dpi='450',grayscale=True, fmt='bmp', poppler_path=poppler_path)
+
+    if platform.system() == 'Windows':
+        poppler_path = "C:\\Program Files\\poppler-23.11.0\\Library\\" + "bin"
+        pages = convert_from_path(f"{filename}.pdf", dpi='450',grayscale=True, fmt='bmp', poppler_path=poppler_path)
+
+    else:
+        pages = convert_from_path(f"{filename}.pdf", dpi='450',grayscale=True, fmt='bmp')
+
     #iterate through every page
     for i, page in enumerate(pages):
         print(f"{output_file_path}/{filename}-original-{page}-{i}.jpg")
@@ -133,100 +139,117 @@ def get_pdf_lines(filename, output_file_path, encoded_bit_sequence=''):
 
 
 def get_decoded_text(original_pdf = [], modified_pdf = [], encoded_sequence_length = 0):
-    decoded_pdf_lines = []
+    # decoded_pdf_lines = []
     decoded_string = ''
+    print('original pdf', original_pdf)
+    print('modified pdf', modified_pdf)
     for index, _ in enumerate(modified_pdf):
         ## add out of bounds error detection logic here.
         if index < len(modified_pdf) and index < len(original_pdf):
             modified_line = modified_pdf[index]
             original_line = original_pdf[index]
-            modified_line_number = f"{modified_line['page_number']}_{modified_line['paragraph_number']}_{modified_line['line_number']}"
-            original_line_number = f"{original_line['page_number']}_{original_line['paragraph_number']}_{original_line['line_number']}"
+            # modified_line_number = f"{modified_line['page_number']}_{modified_line['paragraph_number']}_{modified_line['line_number']}"
+            # original_line_number = f"{original_line['page_number']}_{original_line['paragraph_number']}_{original_line['line_number']}"
 
             ## check if the line numbers are the same.
-            if (original_line_number == modified_line_number):
-                original_line_word_spaces = original_line['words']
-                modified_word_spaces = modified_line['words']
-                for index, _ in enumerate(modified_word_spaces):
-                    modifed_word_space = modified_word_spaces[index]
-                    ## To-do in case keys don't match increase index by 2 else by 1 for better comparison of words.
-                    original_word_space = original_line_word_spaces[index] if index < len(original_line_word_spaces) else None
-                    ## check if the key for the word in the line is same
-                    print('original key: ', original_word_space['key'],  'modified key: ', modifed_word_space['key'])
-                    if (original_word_space is not None):
-                        modified_word_space_width = modifed_word_space['width']
-                        original_word_space_width = original_word_space['width']
-                        ## Check if its a 1 or 0.
-                        if (modified_word_space_width > original_word_space_width):
-                            decoded_string+= '1'
-                        elif (modified_word_space_width < original_word_space_width):
-                            decoded_string+= '0'
-                        else:
-                            if len(decoded_string) != encoded_sequence_length:
-                                decoded_string+= 'x'
+            # if (original_line_number == modified_line_number):
+            original_line_word_spaces = original_line['words']
+            modified_word_spaces = modified_line['words']
+            for index, _ in enumerate(modified_word_spaces):
+                modifed_word_space = modified_word_spaces[index]
+                ## To-do in case keys don't match increase index by 2 else by 1 for better comparison of words.
+                original_word_space = original_line_word_spaces[index] if index < len(original_line_word_spaces) else None
+                ## check if the key for the word in the line is same
+                print('original key: ', original_word_space['key'],  'modified key: ', modifed_word_space['key'])
+                if (original_word_space is not None):
+                    modified_word_space_width = modifed_word_space['width']
+                    original_word_space_width = original_word_space['width']
+                    ## Check if its a 1 or 0.
+                    if (modified_word_space_width > original_word_space_width):
+                        decoded_string+= '1'
+                    elif (modified_word_space_width < original_word_space_width):
+                        decoded_string+= '0'
+                    else:
+                        decoded_string+= 'x'
 
             ## Decoded line in each string
-            decoded_pdf_lines.append({ 'line_number': modified_line_number, 'decoded_string': decoded_string})
-    return decoded_pdf_lines, decoded_string
+            # decoded_pdf_lines.append({ 'line_number': modified_line_number, 'decoded_string': decoded_string})
+    return decoded_string
+
+# def check_decoded_string(original_bit_string, decoded_string):
+#     # start_index = 0
+#     # start = original_bit_string.find(decoded_string, start_index)
+#     # decoded_bit_index = 0
+#     decoded_bit_strings = []
+#     original_bit_index = 0
+#     correction = ''
+#     incorrect_bits_count = 0
+#     for i in range(len(decoded_string)):
+#         if original_bit_string >= len(original_bit_string):
+#             original_bit_index = 0
+#             decoded_bit_strings.append(correction)
+#             correction = ''
+#         validation_original_bit_string = original_bit_string[original_bit_index]
+#         if decoded_string[i] != validation_original_bit_string:
+#             correction+='x'
+#             incorrect_bits_count+=1
+#         else:
+#             correction += decoded_string[i]
+#         original_bit_index += 1
+
+    
+    # if (is_binary_string(correction)):
+    #     print('decode is correct.')
+    # return correction, incorrect_bits_count
+
 
 def check_decoded_string(original_bit_string, decoded_string):
     # start_index = 0
     # start = original_bit_string.find(decoded_string, start_index)
     # decoded_bit_index = 0
-    correction = ''
+    print('Decoded string', decoded_string)
+    decoded_bit_strings = []
+    original_bit_index = 0
+    docoded_string = ''
     incorrect_bits_count = 0
     for i in range(len(decoded_string)):
-        validation_original_bit_string = original_bit_string[i] if i < len(original_bit_string) else None
+        if original_bit_index >= len(original_bit_string):
+            original_bit_index = 0
+            decoded_bit_strings.append(docoded_string)
+            docoded_string = ''
+        validation_original_bit_string = original_bit_string[original_bit_index]
         if decoded_string[i] != validation_original_bit_string:
-            correction+='x'
+            docoded_string+='x'
             incorrect_bits_count+=1
         else:
-            correction += decoded_string[i]
-    # if start != -1:
-    #     ## if the index of decoded string is less than the start index.
-    #     for index in range(len(original_bit_string)):
-    #         if (index < start):
-    #             correction += 'x'
-    #             incorrect_bits_count +=1
-    #         else:
-    #             if (decoded_bit_index < len(decoded_string)):
-    #                 original_bit = original_bit_string[index]
-    #                 decoded_bit  = decoded_string[decoded_bit_index]
-    #                 if (original_bit == decoded_bit):
-    #                     correction+=original_bit
-    #                 else:
-    #                     correction+='w'
-    #                     incorrect_bits_count+=1
-    #                 decoded_bit_index+=1
-    # else:
-        # incorrect_bits_count += len(decoded_string)
-        # print('decoded string not found in bit string')
-        # return 'decoded string not found in bit string', incorrect_bits_count
+            docoded_string += decoded_string[i]
+        original_bit_index += 1
 
-    
-    if (is_binary_string(correction)):
-        print('decode is correct.')
-    return correction, incorrect_bits_count
+    return decoded_bit_strings
+
+        # if (is_binary_string(correction)):
+    #     print('decode is correct.')
+    # return correction, incorrect_bits_count
 
            
 def is_binary_string(s):
     return set(s).issubset({'0', '1'})
 
-def get_decoded_text_substring(original_bit_string, decoded_pdf_lines):
-    total_error_rate = 0
-    for line in decoded_pdf_lines:
-        line_error_rate = 0
-        decoded_string = line['decoded_string']
-        correction_string, incorrect_bits_count = check_decoded_string(original_bit_string, decoded_string)
-        line_error_rate = incorrect_bits_count/len(decoded_string) if len(decoded_string) != 0 else 0
-        total_error_rate += line_error_rate
-        print('Line Number: ', line['line_number'])
-        print('Decoded string: ', decoded_string) 
-        print('correction', correction_string)
+# def get_decoded_text_substring(original_bit_string, decoded_pdf_lines):
+#     total_error_rate = 0
+#     for line in decoded_pdf_lines:
+#         line_error_rate = 0
+#         decoded_string = line['decoded_string']
+#         correction_string, incorrect_bits_count = check_decoded_string(original_bit_string, decoded_string)
+#         line_error_rate = incorrect_bits_count/len(decoded_string) if len(decoded_string) != 0 else 0
+#         total_error_rate += line_error_rate
+#         print('Line Number: ', line['line_number'])
+#         print('Decoded string: ', decoded_string) 
+#         print('correction', correction_string)
 
-    pdf_error_rate = total_error_rate/len(decoded_pdf_lines)
-    print('Total error rate: ', pdf_error_rate)
-    return pdf_error_rate
+#     pdf_error_rate = total_error_rate/len(decoded_pdf_lines)
+#     print('Total error rate: ', pdf_error_rate)
+#     return pdf_error_rate
     
 
     
